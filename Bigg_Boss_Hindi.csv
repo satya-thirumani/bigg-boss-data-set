@@ -1,30 +1,118 @@
-Season Number,Name,Profession,Entry Date,Elimination Date,Elimination Week Number,Wild Card,Winner,Season Length,Number of Housemates,Season Start Date,Season End Date,Host Name,Prize Money (INR)
-1,Amit Sadh,Soap actor,03-Nov-06,,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,
-1,Anupama Verma,Seasoned model,03-Nov-06,,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,
-1,Aryan Vaid,Pageant winner,03-Nov-06,,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,
-1,Baba Sehgal,Singer,03-Nov-06,,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,
-1,Bobby Darling,LGBT,03-Nov-06,,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,
-1,Carol Gracias,Seasoned model,03-Nov-06,,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,
-1,Deepak Tijori,Film star,03-Nov-06,,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,
-1,Kashmira Shah,Film star,03-Nov-06,,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,
-1,Ragini Shetty,Non-celebrity,03-Nov-06,,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,
-1,Rahul Roy,Film star,03-Nov-06,,,No,1,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,10000000
-1,Rakhi Sawant,Item girl,03-Nov-06,,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,
-1,Ravi Kishan,Film star,03-Nov-06,,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,
-1,Roopali Ganguly,Soap actor,03-Nov-06,,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,
-1,Salil Ankola,Sportsperson,03-Nov-06,,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,
-2,Ahsaan Qureshi  ,Comedian,17-Aug-08,,Week 9,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,
-2,Alina Wadiwala  ,Non-celebrity,17-Aug-08,,Week 5,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,
-2,Ashutosh Kaushik,Reality show Alumni,17-Aug-08,,NA,No,1,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,10000000
-2,Debojit Saha    ,Singer,17-Aug-08,,Week 10,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,
-2,Diana Hayden    ,Pageant winner,17-Aug-08,,Week 12,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,
-2,Jade Goody      ,International star,17-Aug-08,,NA,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,
-2,Ketaki Dave     ,Soap actor,17-Aug-08,,Week 4,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,
-2,Monica Bedi     ,"On the WrongSide of the Law",17-Aug-08,,Week 13,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,
-2,Payal Rohatgi   ,Film star,17-Aug-08,,Week 8,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,
-2,Rahul Mahajan   ,"On the WrongSide of the Law",17-Aug-08,,NA,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,
-2,Raja Chaudhary  ,Film star,17-Aug-08,,Week 14,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,
-2,Rakhi Tandon    ,Soap actor,17-Aug-08,,Week 2,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,
-2,Sambhavna Seth  ,Item girl,17-Aug-08,,Week 7,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,
-2,Sanjay Nirupam  ,Politically acclaimed,17-Aug-08,,Week 1,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,
-2,Zulfi Syed      ,Seasoned model,17-Aug-08,,Week 14,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,
+Season Number,Name,Profession,Entry Date,Elimination Date,Elimination Week Number,Wild Card,Winner,Season Length,Number of Housemates,Season Start Date,Season End Date,Host Name,Prize Money (INR),Broadcasted By
+1,Amit Sadh,Soap Actor,03-Nov-06,,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,0 ,Sony TV
+1,Anupama Verma,Model,03-Nov-06,,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,0 ,Sony TV
+1,Aryan Vaid,Pageant Winner,03-Nov-06,,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,0 ,Sony TV
+1,Baba Sehgal,Singer,03-Nov-06,,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,0 ,Sony TV
+1,Bobby Darling,LGBT,03-Nov-06,,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,0 ,Sony TV
+1,Carol Gracias,Model,03-Nov-06,26-Jan-07,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,0 ,Sony TV
+1,Deepak Tijori,Film Star,03-Nov-06,,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,0 ,Sony TV
+1,Kashmira Shah,Film Star,03-Nov-06,,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,0 ,Sony TV
+1,Ragini Shetty,Commoner,03-Nov-06,,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,0 ,Sony TV
+1,Rahul Roy,Film Star,03-Nov-06,NA,NA,No,1,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,"1,00,00,000",Sony TV
+1,Rakhi Sawant,Item Girl,03-Nov-06,,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,0 ,Sony TV
+1,Ravi Kishan,Film Star,03-Nov-06,26-Jan-07,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,0 ,Sony TV
+1,Roopali Ganguly,Soap Actress,03-Nov-06,,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,0 ,Sony TV
+1,Salil Ankola,Sportsperson,03-Nov-06,,,No,0,86,15,03-Nov-06,26-Jan-07,Arshad Warsi,0 ,Sony TV
+2,Ahsaan Qureshi  ,Comedian,17-Aug-08,,Week 9,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,0 ,Colors
+2,Alina Wadiwala  ,Model,17-Aug-08,,Week 5,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,0 ,Colors
+2,Ashutosh Kaushik,Reality Show Alumni,17-Aug-08,NA,NA,No,1,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,"1,00,00,000",Colors
+2,Debojit Saha    ,Singer,17-Aug-08,,Week 10,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,0 ,Colors
+2,Diana Hayden    ,Pageant Winner,17-Aug-08,,Week 12,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,0 ,Colors
+2,Jade Goody      ,International Star,17-Aug-08,NA,NA,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,0 ,Colors
+2,Ketaki Dave     ,Soap Actress,17-Aug-08,,Week 4,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,0 ,Colors
+2,Monica Bedi     ,"On the WrongSide of the Law",17-Aug-08,,Week 13,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,0 ,Colors
+2,Payal Rohatgi   ,Actress,17-Aug-08,,Week 8,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,0 ,Colors
+2,Rahul Mahajan   ,"On the WrongSide of the Law",17-Aug-08,NA,NA,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,0 ,Colors
+2,Raja Chaudhary  ,Actor,17-Aug-08,22-Nov-08,Week 14,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,0 ,Colors
+2,Rakhi Tandon    ,Soap Actress,17-Aug-08,,Week 2,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,0 ,Colors
+2,Sambhavna Seth  ,Item Girl,17-Aug-08,,Week 7,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,0 ,Colors
+2,Sanjay Nirupam  ,Politically Acclaimed,17-Aug-08,,Week 1,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,0 ,Colors
+2,Zulfi Syed      ,Model,17-Aug-08,22-Nov-08,Week 14,No,0,98,15,17-Aug-08,22-Nov-08,Shilpa Shetty,0 ,Colors
+3,Aditi Gowitrikar,Actress,04-Oct-09,,,No,0,84,15,04-Oct-09,26-Dec-09,Amitabh Bachchan,0 ,Colors
+3,Bakhtiyaar Irani,Soap Actor,04-Oct-09,,,No,0,84,15,04-Oct-09,26-Dec-09,Amitabh Bachchan,0 ,Colors
+3,Claudia Ciesla,Model,04-Oct-09,,,No,0,84,15,04-Oct-09,26-Dec-09,Amitabh Bachchan,0 ,Colors
+3,Ismail Darbar,Singer,04-Oct-09,,,No,0,84,15,04-Oct-09,26-Dec-09,Amitabh Bachchan,0 ,Colors
+3,Jaya Sawant,Actress Mother,04-Oct-09,,,No,0,84,15,04-Oct-09,26-Dec-09,Amitabh Bachchan,0 ,Colors
+3,Kamal Rashid Khan,Director,04-Oct-09,,,No,0,84,15,04-Oct-09,26-Dec-09,Amitabh Bachchan,0 ,Colors
+3,Poonam Dhillon,Actress,04-Oct-09,,,No,0,84,15,04-Oct-09,26-Dec-09,Amitabh Bachchan,0 ,Colors
+3,Raju Srivastav,Comedian,04-Oct-09,,,No,0,84,15,04-Oct-09,26-Dec-09,Amitabh Bachchan,0 ,Colors
+3,Rohit Verma,Fashion Designer,04-Oct-09,,,No,0,84,15,04-Oct-09,26-Dec-09,Amitabh Bachchan,0 ,Colors
+3,Shamita Shetty,Actress,04-Oct-09,,,No,0,84,15,04-Oct-09,26-Dec-09,Amitabh Bachchan,0 ,Colors
+3,Sherlyn Chopra,Actress,04-Oct-09,,,No,0,84,15,04-Oct-09,26-Dec-09,Amitabh Bachchan,0 ,Colors
+3,Tanaaz Irani,Actress,04-Oct-09,,,No,0,84,15,04-Oct-09,26-Dec-09,Amitabh Bachchan,0 ,Colors
+3,Vindu Dara Singh,Actor,04-Oct-09,NA,NA,No,1,84,15,04-Oct-09,26-Dec-09,Amitabh Bachchan,"1,00,00,000",Colors
+3,Vinod Kambli,Sportsperson,,,,Yes,0,84,15,04-Oct-09,26-Dec-09,Amitabh Bachchan,0,Colors
+3,Pravesh Rana,Model,,,,Yes,0,84,15,04-Oct-09,26-Dec-09,Amitabh Bachchan,0,Colors
+4,Aanchal Kumar,Model,03-Oct-10,,Week 10,No,0 ,96,16,03-Oct-10,08-Jan-11,Salman Khan,0 ,Colors
+4,Abbas Kazmi,Lawyer,03-Oct-10,,Week 1,No,0 ,96,16,03-Oct-10,08-Jan-11,Salman Khan,0 ,Colors
+4,Ashmit Patel,Actor,03-Oct-10,08-Jan-11,Week 14,No,0 ,96,16,03-Oct-10,08-Jan-11,Salman Khan,0 ,Colors
+4,Ali Saleem (Begum),TV Anchor,03-Oct-10,,Week 3,No,0 ,96,16,03-Oct-10,08-Jan-11,Salman Khan,0 ,Colors
+4,Devinder,,03-Oct-10,,,No,0 ,96,16,03-Oct-10,08-Jan-11,Salman Khan,0 ,Colors
+4,Hrishant Goswami,Model,03-Oct-10,,Week 8,No,0 ,96,16,03-Oct-10,08-Jan-11,Salman Khan,0 ,Colors
+4,Manoj Tiwari,Actor,03-Oct-10,,Week 9,No,0 ,96,16,03-Oct-10,08-Jan-11,Salman Khan,0 ,Colors
+4,Rahul Bhatt,Actor,03-Oct-10,,Week 5,No,0 ,96,16,03-Oct-10,08-Jan-11,Salman Khan,0 ,Colors
+4,Sakshi Pradhan,Reality Show Alumni,03-Oct-10,,Week 2,No,0 ,96,16,03-Oct-10,08-Jan-11,Salman Khan,0 ,Colors
+4,Samir Soni,Actor,03-Oct-10,,Week 13,No,0 ,96,16,03-Oct-10,08-Jan-11,Salman Khan,0 ,Colors
+4,Sara Khan,Soap Actress,03-Oct-10,,Week 4,No,0 ,96,16,03-Oct-10,08-Jan-11,Salman Khan,0 ,Colors
+4,Seema Parihar,Politician,03-Oct-10,,Week 11,No,0 ,96,16,03-Oct-10,08-Jan-11,Salman Khan,0 ,Colors
+4,Shweta Tiwari,Soap Actress,03-Oct-10,NA,NA,No,1,96,16,03-Oct-10,08-Jan-11,Salman Khan,"1,00,00,000",Colors
+4,Veena Malik,Actress,03-Oct-10,,Week 12,No,0 ,96,16,03-Oct-10,08-Jan-11,Salman Khan,0 ,Colors
+4,The Great Khali,Wrestler,,08-Jan-11,Week 14,Yes,0 ,96,16,03-Oct-10,08-Jan-11,Salman Khan,0 ,Colors
+4,Dolly Bindra,,,08-Jan-11,Week 14,Yes,0 ,96,16,03-Oct-10,08-Jan-11,Salman Khan,0 ,Colors
+5,Gulabo Sapera,Dancer,02-Oct-11,,Week 2,No,0 ,98,18,02-Oct-11,07-Jan-12,Sanjay Dutt,0 ,Colors
+5,Juhi Parmar,Soap Actress,02-Oct-11,NA,NA,No,1,98,18,02-Oct-11,07-Jan-12,Sanjay Dutt,"1,00,00,000",Colors
+5,Laxmi Narayan Tripathi,LGBT rights activist,02-Oct-11,,Week 6,No,0 ,98,18,02-Oct-11,07-Jan-12,Sanjay Dutt,0 ,Colors
+5,Mahek Chahal,Actress,02-Oct-11,07-Jan-12,Week 14,No,0 ,98,18,02-Oct-11,07-Jan-12,Sanjay Dutt,0 ,Colors
+5,Mandeep Bevli,TV Anchor,02-Oct-11,,Week 5,No,0 ,98,18,02-Oct-11,07-Jan-12,Sanjay Dutt,0 ,Colors
+5,Nihita Biswas,"on the WrongSide of the Law",02-Oct-11,,Week 1,No,0 ,98,18,02-Oct-11,07-Jan-12,Sanjay Dutt,0 ,Colors
+5,Pooja Bedi,Television personality,02-Oct-11,,Week 8,No,0 ,98,18,02-Oct-11,07-Jan-12,Sanjay Dutt,0 ,Colors
+5,Pooja Misrra,Reality Show Alumni,02-Oct-11,NA,NA,No,0 ,98,18,02-Oct-11,07-Jan-12,Sanjay Dutt,0 ,Colors
+5,Raageshwari,Singer,02-Oct-11,,Week 3,No,0 ,98,18,02-Oct-11,07-Jan-12,Sanjay Dutt,0 ,Colors
+5,Shakti Kapoor,Actor,02-Oct-11,,Week 4,No,0 ,98,18,02-Oct-11,07-Jan-12,Sanjay Dutt,0 ,Colors
+5,Shonali Nagrani,Actress,02-Oct-11,,Week 11,No,0 ,98,18,02-Oct-11,07-Jan-12,Sanjay Dutt,0 ,Colors
+5,Shraddha Sharma,Soap Actress,02-Oct-11,,Week 9,No,0 ,98,18,02-Oct-11,07-Jan-12,Sanjay Dutt,0 ,Colors
+5,Sonika Kaliraman,Wrestler,02-Oct-11,NA,NA,No,0 ,98,18,02-Oct-11,07-Jan-12,Sanjay Dutt,0 ,Colors
+5,Vida Samadzai,Pageant Winner,02-Oct-11,,Week 7,No,0 ,98,18,02-Oct-11,07-Jan-12,Sanjay Dutt,0 ,Colors
+5,Amar Upadhyay,Actor,,07-Jan-12,Week 14,Yes,0 ,98,18,02-Oct-11,07-Jan-12,Sanjay Dutt,0 ,Colors
+5,Siddharth Bhardwaj,Reality Show Alumni,,07-Jan-12,Week 14,Yes,0 ,98,18,02-Oct-11,07-Jan-12,Sanjay Dutt,0 ,Colors
+5,Akashdeep Saigal,Actor,,07-Jan-12,Week 14,Yes,0 ,98,18,02-Oct-11,07-Jan-12,Sanjay Dutt,0 ,Colors
+5,Sunny Leone,Actress,,,Week 13,Yes,0 ,98,18,02-Oct-11,07-Jan-12,Sanjay Dutt,0 ,Colors
+6,Aashka Goradia,Actress,07-Oct-12,,Week 12,No,0 ,97,19,07-Oct-12,12-Jan-13,Salman Khan,0 ,Colors
+6,Aseem Trivedi,Cartoonist,07-Oct-12,,Week 4,No,0 ,97,19,07-Oct-12,12-Jan-13,Salman Khan,0 ,Colors
+6,Delnaaz Irani,Actress,07-Oct-12,09-Jan-13,Week 14,No,0 ,97,19,07-Oct-12,12-Jan-13,Salman Khan,0 ,Colors
+6,Dinesh Lal Yadav,Actor,07-Oct-12,,Week 10,No,0 ,97,19,07-Oct-12,12-Jan-13,Salman Khan,0 ,Colors
+6,Karishma Kotak,Model,07-Oct-12,,Week 12,No,0 ,97,19,07-Oct-12,12-Jan-13,Salman Khan,0 ,Colors
+6,Kashif Qureshi,Commoner,07-Oct-12,,Week 2,No,0 ,97,19,07-Oct-12,12-Jan-13,Salman Khan,0 ,Colors
+6,Navjot Singh Sidhu,Sportsperson,07-Oct-12,NA,NA,No,0 ,97,19,07-Oct-12,12-Jan-13,Salman Khan,0 ,Colors
+6,Niketan Madhok,Model,07-Oct-12,12-Jan-13,Week 14,No,0 ,97,19,07-Oct-12,12-Jan-13,Salman Khan,0 ,Colors
+6,Rajeev Paul,Actor,07-Oct-12,11-Jan-13,Week 14,No,0 ,97,19,07-Oct-12,12-Jan-13,Salman Khan,0 ,Colors
+6,Sampat Pal Devi,Commoner,07-Oct-12,,Week 5,No,0 ,97,19,07-Oct-12,12-Jan-13,Salman Khan,0 ,Colors
+6,Sana Khan,Actress,07-Oct-12,12-Jan-13,Week 14,No,0 ,97,19,07-Oct-12,12-Jan-13,Salman Khan,0 ,Colors
+6,Sapna Bhavnani,Celebrity hairstylist,07-Oct-12,,Week 13,No,0 ,97,19,07-Oct-12,12-Jan-13,Salman Khan,0 ,Colors
+6,Sayantani Ghosh,Model,07-Oct-12,,Week 3,No,0 ,97,19,07-Oct-12,12-Jan-13,Salman Khan,0 ,Colors
+6,Urvashi Dholakia,Actress,07-Oct-12,NA,NA,No,1 ,97,19,07-Oct-12,12-Jan-13,Salman Khan,"50,00,000",Colors
+6,Vrajesh Hirjee,Actor,07-Oct-12,,Week 9,No,0 ,97,19,07-Oct-12,12-Jan-13,Salman Khan,0 ,Colors
+6,Vishal Karwal,Soap Actor,,,Week 11,Yes,0 ,97,19,07-Oct-12,12-Jan-13,Salman Khan,0 ,Colors
+6,Mink Brar,Model,,,Week 9,Yes,0 ,97,19,07-Oct-12,12-Jan-13,Salman Khan,0 ,Colors
+6,Imam Siddique,Reality Show Alumni,,12-Jan-13,Week 14,Yes,0 ,97,19,07-Oct-12,12-Jan-13,Salman Khan,0 ,Colors
+6,Santosh Shukla,Actor,,,Week 11,Yes,0 ,97,19,07-Oct-12,12-Jan-13,Salman Khan,0 ,Colors
+7,Anita Advani,Actress,15-Sep-13,,Week 4,No,0 ,105,20,15-Sep-13,28-Dec-13,Salman Khan,0 ,Colors
+7,Apoorva Agnihotri,Actor,15-Sep-13,,Week 7,No,0 ,105,20,15-Sep-13,28-Dec-13,Salman Khan,0 ,Colors
+7,Armaan Kohli,Actor,15-Sep-13,,Week 14,No,0 ,105,20,15-Sep-13,28-Dec-13,Salman Khan,0 ,Colors
+7,Elli Avram,International Star,15-Sep-13,,Week 10,No,0 ,105,20,15-Sep-13,28-Dec-13,Salman Khan,0 ,Colors
+7,Gauhar Khan,Actress,15-Sep-13,NA,NA,No,1 ,105,20,15-Sep-13,28-Dec-13,Salman Khan,"50,00,000",Colors
+7,Hazel Keech,International Star,15-Sep-13,,Week 1,No,0 ,105,20,15-Sep-13,28-Dec-13,Salman Khan,0 ,Colors
+7,Kamya Panjabi,Soap Actress,15-Sep-13,,Week 13,No,0 ,105,20,15-Sep-13,28-Dec-13,Salman Khan,0 ,Colors
+7,Kushal Tandon,Model,15-Sep-13,,Week 14,No,0 ,105,20,15-Sep-13,28-Dec-13,Salman Khan,0 ,Colors
+7,Pratyusha Banerjee,Actress,15-Sep-13,,Week 9,No,0 ,105,20,15-Sep-13,28-Dec-13,Salman Khan,0 ,Colors
+7,Rajat Rawail,Producer,15-Sep-13,,Week 2,No,0 ,105,20,15-Sep-13,28-Dec-13,Salman Khan,0 ,Colors
+7,Ratan Rajput,Soap Actress,15-Sep-13,,Week 3,No,0 ,105,20,15-Sep-13,28-Dec-13,Salman Khan,0 ,Colors
+7,Sangram Singh,Wrestler,15-Sep-13,28-Dec-13,Week 15,No,0 ,105,20,15-Sep-13,28-Dec-13,Salman Khan,0 ,Colors
+7,Shilpa Sakhlani,Actress,15-Sep-13,,Week 5,No,0 ,105,20,15-Sep-13,28-Dec-13,Salman Khan,0 ,Colors
+7,Tanisha Mukherjee,Actress,15-Sep-13,28-Dec-13,Week 15,No,0 ,105,20,15-Sep-13,28-Dec-13,Salman Khan,0 ,Colors
+7,VJ Andy,VJ,15-Sep-13,,Week 14,No,0 ,105,20,15-Sep-13,28-Dec-13,Salman Khan,0 ,Colors
+7,Asif Azim,Model,,,Week 6,Yes,0 ,105,20,15-Sep-13,28-Dec-13,Salman Khan,0 ,Colors
+7,Vivek Mishra,Model,,,Week 6,Yes,0 ,105,20,15-Sep-13,28-Dec-13,Salman Khan,0 ,Colors
+7,Ajaz Khan,Actor,,28-Dec-13,Week 15,Yes,0 ,105,20,15-Sep-13,28-Dec-13,Salman Khan,0 ,Colors
+7,Candy Brar,Model,,,Week 8,Yes,0 ,105,20,15-Sep-13,28-Dec-13,Salman Khan,0 ,Colors
+7,Sofia Hayat,International Star,,,Week 12,Yes,0 ,105,20,15-Sep-13,28-Dec-13,Salman Khan,0 ,Colors
