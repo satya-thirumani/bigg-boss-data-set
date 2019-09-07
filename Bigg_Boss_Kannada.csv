@@ -66,20 +66,43 @@ Season Number,Name,Profession,Entry Date,Elimination Date,Elimination Week Numbe
 4,Omprakash Rao,Director,,,,Yes,0,112,18,09-Oct-16,29-Jan-17,Sudeep,0 ,Colors Kannada
 4,Sukrutha Wagle,Actress,,,,Yes,0,112,18,09-Oct-16,29-Jan-17,Sudeep,0 ,Colors Kannada
 4,Masthan Chandra,Actor,,,,Yes,0,112,18,09-Oct-16,29-Jan-17,Sudeep,0 ,Colors Kannada
-5,Anupama Gowda,Soap Actress,15-Oct-17,,,No,,,17,15-Oct-17,,Sudeep,,Colors Super
-5,Ashitha Chandrappa,Soap Actress,15-Oct-17,,,No,,,17,15-Oct-17,,Sudeep,,Colors Super
-5,Chandan Shetty,Singer,15-Oct-17,,,No,,,17,15-Oct-17,,Sudeep,,Colors Super
-5,Dayal Padmanabhan,Actor,15-Oct-17,,,No,,,17,15-Oct-17,,Sudeep,,Colors Super
-5,Divakar,Commoner,15-Oct-17,,,No,,,17,15-Oct-17,,Sudeep,,Colors Super
-5,Jagan Chandrashekhar,Soap Actress,15-Oct-17,,,No,,,17,15-Oct-17,,Sudeep,,Colors Super
-5,Jaya Sreenivasan,Numerologist,15-Oct-17,,,No,,,17,15-Oct-17,,Sudeep,,Colors Super
-5,Karthik Jayaram,Soap Actress,15-Oct-17,,,No,,,17,15-Oct-17,,Sudeep,,Colors Super
-5,Krishi Thapanda,Actor,15-Oct-17,,,No,,,17,15-Oct-17,,Sudeep,,Colors Super
-5,Megha,Commoner,15-Oct-17,,,No,,,17,15-Oct-17,,Sudeep,,Colors Super
-5,Niveditha Gowda,Commoner,15-Oct-17,,,No,,,17,15-Oct-17,,Sudeep,,Colors Super
-5,Riyaz Basha,Commoner,15-Oct-17,,,No,,,17,15-Oct-17,,Sudeep,,Colors Super
-5,Sameer Acharya,Commoner,15-Oct-17,,,No,,,17,15-Oct-17,,Sudeep,,Colors Super
-5,Shruthi Prakash,Soap Actress,15-Oct-17,,,No,,,17,15-Oct-17,,Sudeep,,Colors Super
-5,Sihi Kahi Chandr,Artist,15-Oct-17,,,No,,,17,15-Oct-17,,Sudeep,,Colors Super
-5,Suma Rajkumar,Commoner,15-Oct-17,,,No,,,17,15-Oct-17,,Sudeep,,Colors Super
-5,Tejaswini Prakash,Actress,15-Oct-17,,,No,,,17,15-Oct-17,,Sudeep,,Colors Super
+5,Anupama Gowda,Soap Actress,15-Oct-17,,Week 14,No,0,106,20,15-Oct-17,28-Jan-18,Sudeep,0 ,Colors Kannada
+5,Ashitha Chandrappa,Soap Actress,15-Oct-17,,Week 8,No,0,106,20,15-Oct-17,28-Jan-18,Sudeep,0 ,Colors Kannada
+5,Chandan Shetty,Singer,15-Oct-17,NA,NA,No,1,106,20,15-Oct-17,28-Jan-18,Sudeep,"50,00,000",Colors Kannada
+5,Dayal Padmanabhan,Actor,15-Oct-17,,Week 3,No,0,106,20,15-Oct-17,28-Jan-18,Sudeep,0 ,Colors Kannada
+5,Divakar,Commoner,15-Oct-17,,Week 15,No,0,106,20,15-Oct-17,28-Jan-18,Sudeep,0 ,Colors Kannada
+5,Jagan Chandrashekhar,Soap Actor,15-Oct-17,,Week 9,No,0,106,20,15-Oct-17,28-Jan-18,Sudeep,0 ,Colors Kannada
+5,Jaya Sreenivasan,Numerologist,15-Oct-17,,Week 11,No,0,106,20,15-Oct-17,28-Jan-18,Sudeep,0 ,Colors Kannada
+5,Karthik Jayaram,Soap Actress,15-Oct-17,,Week 15,No,0,106,20,15-Oct-17,28-Jan-18,Sudeep,0 ,Colors Kannada
+5,Krishi Thapanda,Actor,15-Oct-17,,Week 12,No,0,106,20,15-Oct-17,28-Jan-18,Sudeep,0 ,Colors Kannada
+5,Megha,Commoner,15-Oct-17,,Week 2,No,0,106,20,15-Oct-17,28-Jan-18,Sudeep,0 ,Colors Kannada
+5,Niveditha Gowda,Commoner,15-Oct-17,,Week 15,No,0,106,20,15-Oct-17,28-Jan-18,Sudeep,0 ,Colors Kannada
+5,Riyaz Basha,RJ,15-Oct-17,,Week 13,No,0,106,20,15-Oct-17,28-Jan-18,Sudeep,0 ,Colors Kannada
+5,Sameer Acharya,Commoner,15-Oct-17,,Week 14,No,0,106,20,15-Oct-17,28-Jan-18,Sudeep,0 ,Colors Kannada
+5,Shruthi Prakash,Soap Actress,15-Oct-17,,Week 15,No,0,106,20,15-Oct-17,28-Jan-18,Sudeep,0 ,Colors Kannada
+5,Sihi Kahi Chandru,Actor,15-Oct-17,,Week 7,No,0,106,20,15-Oct-17,28-Jan-18,Sudeep,0 ,Colors Kannada
+5,Suma Rajkumar,Commoner,15-Oct-17,,Week 1,No,0,106,20,15-Oct-17,28-Jan-18,Sudeep,0 ,Colors Kannada
+5,Tejaswini Prakash,Actress,15-Oct-17,,Week 4,No,0,106,20,15-Oct-17,28-Jan-18,Sudeep,0 ,Colors Kannada
+5,Vaishnavi Chandran Menon,Actress,,,Week 15,Yes,0,106,20,15-Oct-17,28-Jan-18,Sudeep,0 ,Colors Kannada
+5,Lasya Nagaraj,Actress,,,Week 10,Yes,0,106,20,15-Oct-17,28-Jan-18,Sudeep,0 ,Colors Kannada
+5,Samyuktha Hegde,Actress,,NA,NA,Yes,0,106,20,15-Oct-17,28-Jan-18,Sudeep,0 ,Colors Kannada
+6,Adam Pasha,Commoner,21-Oct-18,,Week 4,No,0,100,20,21-Oct-18,27-Jan-19,Sudeep,0,Colors Kannada
+6,Akshatha Pandavapura,Commoner,21-Oct-18,,Week 12,No,0,100,20,21-Oct-18,27-Jan-19,Sudeep,0,Colors Kannada
+6,Anand Malgatti,Commoner,21-Oct-18,,Week 6,No,0,100,20,21-Oct-18,27-Jan-19,Sudeep,0,Colors Kannada
+6,Andrew Jaypaul,Commoner,21-Oct-18,,Week 14,No,0,100,20,21-Oct-18,27-Jan-19,Sudeep,0,Colors Kannada
+6,AV Ravi,Actor,21-Oct-18,,Week 5,No,0,100,20,21-Oct-18,27-Jan-19,Sudeep,0,Colors Kannada
+6,Dhanraj CM,Commoner,21-Oct-18,,Week 13,No,0,100,20,21-Oct-18,27-Jan-19,Sudeep,0,Colors Kannada
+6,Jayashree Raj,Actress,21-Oct-18,,Week 9,No,0,100,20,21-Oct-18,27-Jan-19,Sudeep,0,Colors Kannada
+6,Kavitha Gowda,Actress,21-Oct-18,,Week 14,No,0,100,20,21-Oct-18,27-Jan-19,Sudeep,0,Colors Kannada
+6,MJ Rakesh,RJ,21-Oct-18,,Week 13,No,0,100,20,21-Oct-18,27-Jan-19,Sudeep,0,Colors Kannada
+6,Muruli,TV presenter,21-Oct-18,,Week 11,No,0,100,20,21-Oct-18,27-Jan-19,Sudeep,0,Colors Kannada
+6,Naveen Sajju,Singer,21-Oct-18,,Week 14,No,0,100,20,21-Oct-18,27-Jan-19,Sudeep,0,Colors Kannada
+6,Nayana Puttaswamy,Actress,21-Oct-18,,Week 8,No,0,100,20,21-Oct-18,27-Jan-19,Sudeep,0,Colors Kannada
+6,Rakshitha Rai,Sportswoman,21-Oct-18,,Week 1,No,0,100,20,21-Oct-18,27-Jan-19,Sudeep,0,Colors Kannada
+6,Rapid Rashmi,Actress,21-Oct-18,,Week 14,No,0,100,20,21-Oct-18,27-Jan-19,Sudeep,0,Colors Kannada
+6,Reema Dias,Commoner,21-Oct-18,,Week 2,No,0,100,20,21-Oct-18,27-Jan-19,Sudeep,0,Colors Kannada
+6,Shashi Kumar,Commoner,21-Oct-18,NA,NA,No,1,100,20,21-Oct-18,27-Jan-19,Sudeep,"50,00,000",Colors Kannada
+6,Sneha Acharya,Actress,21-Oct-18,,Week 3,No,0,100,20,21-Oct-18,27-Jan-19,Sudeep,0,Colors Kannada
+6,Sonu Patil,Commoner,21-Oct-18,,Week 7,No,0,100,20,21-Oct-18,27-Jan-19,Sudeep,0,Colors Kannada
+6,Jeevitha,Actress,,,Week 11,Yes,0,100,20,21-Oct-18,27-Jan-19,Sudeep,0,Colors Kannada
+6,Meghashree,Commoner,,,Week 10,Yes,0,100,20,21-Oct-18,27-Jan-19,Sudeep,0,Colors Kannada
