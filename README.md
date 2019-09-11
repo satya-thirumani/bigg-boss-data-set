@@ -4,7 +4,7 @@ Bigg Boss Telugu/Tamil/Kannada/Hindi/Malayalam/Marathi/Bengali Data sets.
 Bigg Boss India - data set of all Indian versions and seasons
 
 
-Bigg Boss Hindi Season 1/2/3/4/5/6/7/8/9/10
+Bigg Boss Hindi Season 1/2/3/4/5/6/7/8/9/10/11/12
 
 Bigg Boss Kannada Season 1/2/3/4/5/6
 
@@ -14,9 +14,10 @@ Bigg Boss Tamil Season 1/2/3
 
 Bigg Boss Bengali Season 1/2
 
+Bigg Boss Marathi Season 1/2
+
 Bigg Boss Malayalam Season 1
 
-Bigg Boss Marathi Season 1
 
 
 Here is the data dictionary for Big Boss (India) season's datasets.
