@@ -40,5 +40,7 @@ Here is the data dictionary for Big Boss (India) season's datasets.
 - Prize Money (INR) - Total prize money in INR
 - Broadcasted By - Channel name who has broadcasted the season (in India)
 - Number of Evictions Faced - Number of Evictions Faced by the Bigg Boss house mate
+- Average TRP - Average TV TRP of the season
+- Number of re-entries - Number of reentries into the house
 - Winner - Winner or not (1 - winner, 0 - otherwise)
 
