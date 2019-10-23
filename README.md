@@ -18,7 +18,7 @@ Bigg Boss Marathi Season 1/2
 
 Bigg Boss Malayalam Season 1
 
-
+https://satya-data.blogspot.com/2018/01/bigg-boss-data-set-bigg-boss.html
 
 Here is the data dictionary for Big Boss (India) season's datasets.
 
