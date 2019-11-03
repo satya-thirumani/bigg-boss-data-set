@@ -6,7 +6,7 @@ Bigg Boss India - data set of all Indian versions and seasons
 
 Bigg Boss Hindi Season 1/2/3/4/5/6/7/8/9/10/11/12/13
 
-Bigg Boss Kannada Season 1/2/3/4/5/6
+Bigg Boss Kannada Season 1/2/3/4/5/6/7
 
 Bigg Boss Telugu Season 1/2/3
 
@@ -42,5 +42,6 @@ Here is the data dictionary for Big Boss (India) season's datasets.
 - Number of Evictions Faced - Number of Evictions Faced by the Bigg Boss house mate
 - Average TRP - Average TV TRP of the season
 - Number of re-entries - Number of reentries into the house
+- Number of times elected as Captain - Number of times elected as Captain
 - Winner - Winner or not (1 - winner, 0 - otherwise)
 
