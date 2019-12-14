@@ -29,7 +29,7 @@ Here is the data dictionary for Big Boss (India) season's datasets.
 - Profession - Profession of house mate
 - Gender - Gender of the BiggBoss contestant, such as Male, Female, LGBT
 - Entry Date - Date of entry into house
-- Elimination Date - Date of elimination
+- Elimination Date - Date of elimination/Eviction
 - Elimination Week Number - (Final) Eviction week number
 - Wild Card - Entered through wild card or not
 - Season Length - Number of days of season
@@ -41,7 +41,7 @@ Here is the data dictionary for Big Boss (India) season's datasets.
 - Broadcasted By - Channel name who has broadcasted the season (in India)
 - Number of Evictions Faced - Number of Evictions Faced by the Bigg Boss house mate
 - Average TRP - Average TV TRP of the season
-- Number of re-entries - Number of reentries into the house
-- Number of times elected as Captain - Number of times elected as Captain
+- Number of re-entries - Number of reentries into the house, in the same season (not fake evictions & secret room)
+- Number of times elected as Captain - Number of times/weeks elected as Captain
 - Winner - Winner or not (1 - winner, 0 - otherwise)
 
