@@ -16,7 +16,7 @@ Bigg Boss Bangla Season 1/2
 
 Bigg Boss Marathi Season 1/2
 
-Bigg Boss Malayalam Season 1
+Bigg Boss Malayalam Season 1/2
 
 https://satya-data.blogspot.com/2018/01/bigg-boss-data-set-bigg-boss.html
 
@@ -39,8 +39,8 @@ Here is the data dictionary for Big Boss (India) season's datasets.
 - Host Name - Name of the host (who hosted most of the weekend episodes)
 - Prize Money (INR) - Total prize money in INR
 - Broadcasted By - Channel name who has broadcasted the season (in India)
-- Number of Evictions Faced - Number of Evictions Faced by the Bigg Boss house mate
 - Average TRP - Average TV TRP of the season
+- Number of Evictions Faced - Number of Evictions Faced by the Bigg Boss house mate
 - Number of re-entries - Number of reentries into the house, in the same season (not fake evictions & secret room)
 - Number of times elected as Captain - Number of times/weeks elected as Captain
 - Winner - Winner or not (1 - winner, 0 - otherwise)
