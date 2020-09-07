@@ -412,6 +412,22 @@ Telugu,3,Varun Sandesh,Actor,Male,21-Jul-19,03-Nov-19,15,No,105,17,21-Jul-19,03-
 Telugu,3,Vithika Sheru,Actress,Female,21-Jul-19,20-Oct-19,13,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,0,Star Maa,,4,0,1,0
 Telugu,3,Tamanna Simhadri,LGBT,Transgender,28-Jul-19,11-Aug-19,3,Yes,105,17,21-Jul-19,03-Nov-19,Nagarjuna,0,Star Maa,,1,0,0,0
 Telugu,3,Shilpa Chakravarthy,TV Anchor,Female,02-Sep-19,15-Sep-19,8,Yes,100,17,21-Jul-19,03-Nov-19,Nagarjuna,0,Star Maa,,1,0,0,0
+Telugu,4,Abijeet,Actor,Male,06-Sep-20,,,No,105,16,06-Sep-20,,Nagarjuna,,Star Maa,,,,,
+Telugu,4,Akhil Sarthak,Actor,Male,06-Sep-20,,,No,105,16,06-Sep-20,,Nagarjuna,,Star Maa,,,,,
+Telugu,4,Alekya Harika,Social Media Star,Female,06-Sep-20,,,No,105,16,06-Sep-20,,Nagarjuna,,Star Maa,,,,,
+Telugu,4,Amma Rajasekhar,Choreographer,Male,06-Sep-20,,,No,105,16,06-Sep-20,,Nagarjuna,,Star Maa,,,,,
+Telugu,4,Ariyana Glory,TV Anchor,Female,06-Sep-20,,,No,105,16,06-Sep-20,,Nagarjuna,,Star Maa,,,,,
+Telugu,4,Devi Nagavalli,News Presenter,Female,06-Sep-20,,,No,105,16,06-Sep-20,,Nagarjuna,,Star Maa,,,,,
+Telugu,4,Divi Vadthaya,Model,Female,06-Sep-20,,,No,105,16,06-Sep-20,,Nagarjuna,,Star Maa,,,,,
+Telugu,4,Gangavva,Social Media Star,Female,06-Sep-20,,,No,105,16,06-Sep-20,,Nagarjuna,,Star Maa,,,,,
+Telugu,4,Karate Kalyani,Actress,Female,06-Sep-20,,,No,105,16,06-Sep-20,,Nagarjuna,,Star Maa,,,,,
+Telugu,4,Lasya,TV Anchor,Female,06-Sep-20,,,No,105,16,06-Sep-20,,Nagarjuna,,Star Maa,,,,,
+Telugu,4,Mehaboob Dil Se,Social Media Star,Male,06-Sep-20,,,No,105,16,06-Sep-20,,Nagarjuna,,Star Maa,,,,,
+Telugu,4,Monal Gajjar,Actress,Female,06-Sep-20,,,No,105,16,06-Sep-20,,Nagarjuna,,Star Maa,,,,,
+Telugu,4,Noel Sean,Singer,Male,06-Sep-20,,,No,105,16,06-Sep-20,,Nagarjuna,,Star Maa,,,,,
+Telugu,4,Sujatha,News Presenter,Female,06-Sep-20,,,No,105,16,06-Sep-20,,Nagarjuna,,Star Maa,,,,,
+Telugu,4,Surya Kiran,Film Director,Male,06-Sep-20,,,No,105,16,06-Sep-20,,Nagarjuna,,Star Maa,,,,,
+Telugu,4,Syed Sohel Ryan,Soap Actor,Male,06-Sep-20,,,No,105,16,06-Sep-20,,Nagarjuna,,Star Maa,,,,,
 Tamil,1,Aarav Nafeez,Model,Male,25-Jun-17,NA,NA,No,98,19,25-Jun-17,30-Sep-17,Kamal Haasan,"50,00,000",Start Vijay,7.80,7,0,1,1
 Tamil,1,Anuya Bhagvath,Actress,Female,25-Jun-17,,1,No,98,19,25-Jun-17,30-Sep-17,Kamal Haasan,0,Start Vijay,7.80,1,0,0,0
 Tamil,1,Bharani,Actor,Male,25-Jun-17,,2,No,98,19,25-Jun-17,30-Sep-17,Kamal Haasan,0,Start Vijay,7.80,1,0,0,0
@@ -548,26 +564,26 @@ Malayalam,1,Sreelakshmi Sreekumar,Actress,Female,24-Jun-18,,4,No,98,18,24-Jun-18
 Malayalam,1,Srinish Aravind,Soap Actor,Male,24-Jun-18,,14,No,98,18,24-Jun-18,30-Sep-18,Mohanlal,0,Asianet,10.33,7,0,2,0
 Malayalam,1,Anjali Ameer,Actress,Female,,,NA,Yes,98,18,24-Jun-18,30-Sep-18,Mohanlal,0,Asianet,10.33,5,0,0,0
 Malayalam,1,Shiyas Kareem,Actor,Male,,,14,Yes,98,18,24-Jun-18,30-Sep-18,Mohanlal,0,Asianet,10.33,0,0,1,0
-Malayalam,2,Alasandra Johnson,Model,Female,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,Asianet,11.03,,1,0,
-Malayalam,2,Alina Padikkal,Soap Actress,Female,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,Asianet,11.03,,1,0,
-Malayalam,2,Arya Rohit,Actress,Female,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,Asianet,11.03,,0,0,
-Malayalam,2,Krishnajeev/Fukru,Social Media Star,Male,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,Asianet,11.03,,0,3,
+Malayalam,2,Alasandra Johnson,Model,Female,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,Asianet,11.03,4,1,0,
+Malayalam,2,Alina Padikkal,Soap Actress,Female,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,Asianet,11.03,3,1,0,
+Malayalam,2,Arya Rohit,Actress,Female,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,Asianet,11.03,5,0,0,
+Malayalam,2,Krishnajeev/Fukru,Social Media Star,Male,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,Asianet,11.03,2,0,3,
 Malayalam,2,Manju Sunichen/Pathrose,Soap Actress,Female,05-Jan-20,,7,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,0,Asianet,11.03,2,0,0,0
 Malayalam,2,Pareekutty Perumbavoor,Actor,Male,05-Jan-20,26-Jan-20,3,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,0,Asianet,11.03,1,0,0,0
 Malayalam,2,Pradeep Chandran,Actor,Male,05-Jan-20,,6,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,0,Asianet,11.03,3,0,1,0
-Malayalam,2,Raghu Subhash,Radio Jockey,Male,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,Asianet,11.03,,1,,
+Malayalam,2,Raghu Subhash,Radio Jockey,Male,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,Asianet,11.03,3,1,,
 Malayalam,2,Rajini Chandy,Actress,Female,05-Jan-20,19-Jan-20,2,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,0,Asianet,11.03,1,0,1,0
-Malayalam,2,Rajith Kumar,Activist,Male,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,Asianet,11.03,,0,2,
+Malayalam,2,Rajith Kumar,Activist,Male,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,0,Asianet,11.03,6,0,2,0
 Malayalam,2,Reshma Rajan/Nair,Model,Female,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,0,Asianet,11.03,3,1,0,0
-Malayalam,2,Saju Navodaya,Actor,Male,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,Asianet,11.03,,0,4,
+Malayalam,2,Saju Navodaya,Actor,Male,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,Asianet,11.03,3,0,4,
 Malayalam,2,Somadas,Singer,Male,05-Jan-20,NA,NA,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,0,Asianet,11.03,1,0,0,0
-Malayalam,2,Sujo Mathew,Model,Male,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,Asianet,11.03,,1,0,
+Malayalam,2,Sujo Mathew,Model,Male,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,Asianet,11.03,3,1,0,
 Malayalam,2,Suresh Krishnan,Film Director,Male,05-Jan-20,26-Jan-20,3,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,0,Asianet,11.03,1,0,0,0
 Malayalam,2,Thesni Khan,Actress,Female,05-Jan-20,,4,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,0,Asianet,11.03,2,0,0,0
 Malayalam,2,Veena Nair,Actress,Female,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,0,Asianet,11.03,7,0,0,0
-Malayalam,2,Daya Ashwathy/Achu,Social Media Star,Female,26-Jan-20,,,Yes,105,23,05-Jan-20,19-Apr-20,Mohanlal,,Asianet,11.03,,1,0,
+Malayalam,2,Daya Ashwathy/Achu,Social Media Star,Female,26-Jan-20,,,Yes,105,23,05-Jan-20,19-Apr-20,Mohanlal,,Asianet,11.03,4,1,0,
 Malayalam,2,Jazla Madassery,Activist,Female,26-Jan-20,,8,Yes,105,23,05-Jan-20,19-Apr-20,Mohanlal,0,Asianet,11.03,4,0,0,0
 Malayalam,2,Pavan Gino Thomas,Model,Male,,NA,NA,Yes,105,23,05-Jan-20,19-Apr-20,Mohanlal,0,Asianet,11.03,0,0,0,0
 Malayalam,2,Sooraj,Radio Jockey,Male,,,8,Yes,105,23,05-Jan-20,19-Apr-20,Mohanlal,0,Asianet,11.03,2,0,0,0
-Malayalam,2,Abhirami Suresh,Actress,Female,,,,Yes,105,23,05-Jan-20,19-Apr-20,Mohanlal,,Asianet,11.03,,0,0,
-Malayalam,2,Amrutha Suresh,Singer,Female,,,,Yes,105,23,05-Jan-20,19-Apr-20,Mohanlal,,Asianet,11.03,,0,0,
+Malayalam,2,Abhirami Suresh,Actress,Female,,,,Yes,105,23,05-Jan-20,19-Apr-20,Mohanlal,,Asianet,11.03,3,0,0,
+Malayalam,2,Amrutha Suresh,Singer,Female,,,,Yes,105,23,05-Jan-20,19-Apr-20,Mohanlal,,Asianet,11.03,3,0,0,
