@@ -8,9 +8,9 @@ Bigg Boss Hindi Season 1/2/3/4/5/6/7/8/9/10/11/12/13
 
 Bigg Boss Kannada Season 1/2/3/4/5/6/7
 
-Bigg Boss Telugu Season 1/2/3
+Bigg Boss Telugu Season 1/2/3/4
 
-Bigg Boss Tamil Season 1/2/3
+Bigg Boss Tamil Season 1/2/3/4
 
 Bigg Boss Bangla Season 1/2
 
