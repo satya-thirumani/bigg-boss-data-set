@@ -20,6 +20,7 @@ Bigg Boss Bangla Season 1/2
 
 
 Dataset https://www.kaggle.com/thirumani/bigg-boss-india-hindi-telugu-tamil-kannada
+
 https://satya-data.blogspot.com/2018/01/bigg-boss-data-set-bigg-boss.html
 
 Here is the data dictionary for Big Boss (India) season's datasets.
