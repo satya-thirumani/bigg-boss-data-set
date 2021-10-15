@@ -194,8 +194,8 @@ Hindi,11,Vikas Gupta,Producer,Male,01-Oct-17,,15,No,106,19,01-Oct-17,14-Jan-18,S
 Hindi,11,Zubair Khan,Controversial Fame,Male,01-Oct-17,08-Oct-17,1,No,106,19,01-Oct-17,14-Jan-18,Salman Khan,,0,Colors,7.64,1,0,0,,0,0
 Hindi,11,Dhinchak Pooja (Jain),Social Media Star,Female,22-Oct-17,05-Nov-17,5,Yes,106,19,01-Oct-17,14-Jan-18,Salman Khan,,0,Colors,7.64,1,0,0,,0,0
 Hindi,12,Anup Jalota,Singer,Male,16-Sep-18,,6,No,105,20,16-Sep-18,30-Dec-18,Salman Khan,,0,Colors,4.99,2,0,0,,0,0
-Hindi,12,Deepak Thakur,Singer,Male,16-Sep-18,30-Dec-18,15,No,105,20,16-Sep-18,30-Dec-18,Salman Khan,,0,Colors,4.99,7,0,1,6,1,0
-Hindi,12,Dipika Kakar,Actress,Female,16-Sep-18,NA,NA,No,105,20,16-Sep-18,30-Dec-18,Salman Khan,,"50,00,000",Colors,4.99,9,0,0,8,1,1
+Hindi,12,Deepak Thakur,Singer,Male,16-Sep-18,30-Dec-18,15,No,105,20,16-Sep-18,30-Dec-18,Salman Khan,,"20,00,000",Colors,4.99,7,0,1,6,1,0
+Hindi,12,Dipika Kakar,Actress,Female,16-Sep-18,NA,NA,No,105,20,16-Sep-18,30-Dec-18,Salman Khan,,"30,00,000",Colors,4.99,9,0,0,8,1,1
 Hindi,12,Jasleen Matharu,Singer,Female,16-Sep-18,,12,No,105,20,16-Sep-18,30-Dec-18,Salman Khan,,0,Colors,4.99,7,0,0,,0,0
 Hindi,12,Karanvir Bohra,Soap Actor,Male,16-Sep-18,30-Dec-18,15,No,105,20,16-Sep-18,30-Dec-18,Salman Khan,,0,Colors,4.99,10,0,1,5,1,0
 Hindi,12,Kriti Verma,Reality Show Alumni,Female,16-Sep-18,,2,No,105,20,16-Sep-18,30-Dec-18,Salman Khan,,0,Colors,4.99,3,0,1,,0,0
@@ -235,21 +235,44 @@ Hindi,13,Himanshi Khurana,Singer,Female,,,10,Yes,140,22,29-Sep-19,15-Feb-20,Salm
 Hindi,13,Vishal Aditya Singh,Soap Actor,Male,,,18,Yes,140,22,29-Sep-19,15-Feb-20,Salman Khan,,0,Colors,9.06,7,0,0,,0,0
 Hindi,13,Madhurima Tuli,Actress,Female,,19-Jan-20,16,Yes,140,22,29-Sep-19,15-Feb-20,Salman Khan,,0,Colors,9.06,6,0,0,,0,0
 Hindi,13,Vikas Gupta,Producer,Male,,,13,Yes,140,22,29-Sep-19,15-Feb-20,Salman Khan,,0,Colors,9.06,0,0,1,,0,0
-Hindi,14,Abhinav Shukla,Actor,Male,03-Oct-20,,,No,105,15,03-Oct-20,16-Jan-21,Salman Khan,,,Colors,,5,0,0,,,
-Hindi,14,Eijaz Khan,Actor,Male,03-Oct-20,,,No,105,15,03-Oct-20,16-Jan-21,Salman Khan,,,Colors,,3,1,1,,,
-Hindi,14,Jaan Kumar Sanu,Musician,Male,03-Oct-20,,7,No,105,15,03-Oct-20,16-Jan-21,Salman Khan,,0,Colors,,6,0,0,,0,0
-Hindi,14,Jasmin Bhasin,Soap Actress,Female,03-Oct-20,,,No,105,15,03-Oct-20,16-Jan-21,Salman Khan,,,Colors,,5,0,1,,,
-Hindi,14,Nikki Tamboli,Actress,Female,03-Oct-20,,,No,105,15,03-Oct-20,16-Jan-21,Salman Khan,,,Colors,,3,1,0,,,
-Hindi,14,Nishant Singh Malkani,Model,Male,03-Oct-20,,4,No,105,15,03-Oct-20,16-Jan-21,Salman Khan,,0,Colors,,3,0,0,,0,0
-Hindi,14,Pavitra Punia,Soap Actress,Female,03-Oct-20,,8,No,105,15,03-Oct-20,16-Jan-21,Salman Khan,,0,Colors,,3,1,0,,0,0
-Hindi,14,Rahul Vaidya,Singer,Male,03-Oct-20,,9,No,105,15,03-Oct-20,16-Jan-21,Salman Khan,,0,Colors,,5,0,0,,0,0
-Hindi,14,Rubina Dilaik,Soap Actress,Female,03-Oct-20,,,No,105,15,03-Oct-20,16-Jan-21,Salman Khan,,,Colors,,7,0,0,,,
-Hindi,14,Sara Gurpal,Singer,Female,03-Oct-20,11-Oct-20,2,No,105,15,03-Oct-20,16-Jan-21,Salman Khan,,0,Colors,,2,0,0,,0,0
-Hindi,14,Shehzad Deol,Model,Male,03-Oct-20,18-Oct-20,3,No,105,15,03-Oct-20,16-Jan-21,Salman Khan,,0,Colors,,4,0,0,,0,0
-Hindi,14,Kavita Kaushik ,Actress,Female,,,9,Yes,105,15,03-Oct-20,16-Jan-21,Salman Khan,,0,Colors,,2,1,1,,0,0
-Hindi,14,Naina Singh,Soap Actress,Female,,,5,Yes,105,15,03-Oct-20,16-Jan-21,Salman Khan,,0,Colors,,1,0,0,,0,0
-Hindi,14,Shardul Pandit,Radio Jockey,Male,,,6,Yes,105,15,03-Oct-20,16-Jan-21,Salman Khan,,0,Colors,,2,0,0,,0,0
-Hindi,14,Aly Goni,Actor,Male,,,,Yes,105,15,03-Oct-20,16-Jan-21,Salman Khan,,,Colors,,1,1,1,,,
+Hindi,14,Abhinav Shukla,Actor,Male,03-Oct-20,,19,No,143,22,03-Oct-20,21-Feb-21,Salman Khan,,0,Colors,,11,0,0,,0,0
+Hindi,14,Eijaz Khan,Actor,Male,03-Oct-20,,16,No,143,22,03-Oct-20,21-Feb-21,Salman Khan,,0,Colors,,7,1,1,,0,0
+Hindi,14,Jaan Kumar Sanu,Musician,Male,03-Oct-20,,7,No,143,22,03-Oct-20,21-Feb-21,Salman Khan,,0,Colors,,6,0,0,,0,0
+Hindi,14,Jasmin Bhasin,Soap Actress,Female,03-Oct-20,,14,No,143,22,03-Oct-20,21-Feb-21,Salman Khan,,0,Colors,,10,0,1,,0,0
+Hindi,14,Nikki Tamboli,Actress,Female,03-Oct-20,,20,No,143,22,03-Oct-20,21-Feb-21,Salman Khan,,0,Colors,,12,1,0,,1,0
+Hindi,14,Nishant Singh Malkani,Model,Male,03-Oct-20,,4,No,143,22,03-Oct-20,21-Feb-21,Salman Khan,,0,Colors,,3,0,0,,0,0
+Hindi,14,Pavitra Punia,Soap Actress,Female,03-Oct-20,,8,No,143,22,03-Oct-20,21-Feb-21,Salman Khan,,0,Colors,,3,1,0,,0,0
+Hindi,14,Rahul Vaidya,Singer,Male,03-Oct-20,,20,No,143,22,03-Oct-20,21-Feb-21,Salman Khan,,0,Colors,,14,1,0,,1,0
+Hindi,14,Rubina Dilaik,Soap Actress,Female,03-Oct-20,NA,NA,No,143,22,03-Oct-20,21-Feb-21,Salman Khan,,"36,00,000",Colors,,17,0,0,,1,1
+Hindi,14,Sara Gurpal,Singer,Female,03-Oct-20,11-Oct-20,2,No,143,22,03-Oct-20,21-Feb-21,Salman Khan,,0,Colors,,2,0,0,,0,0
+Hindi,14,Shehzad Deol,Model,Male,03-Oct-20,18-Oct-20,3,No,143,22,03-Oct-20,21-Feb-21,Salman Khan,,0,Colors,,4,0,0,,0,0
+Hindi,14,Kavita Kaushik ,Actress,Female,,,9,Yes,143,22,03-Oct-20,21-Feb-21,Salman Khan,,0,Colors,,3,1,2,,0,0
+Hindi,14,Naina Singh,Soap Actress,Female,,,5,Yes,143,22,03-Oct-20,21-Feb-21,Salman Khan,,0,Colors,,1,0,0,,0,0
+Hindi,14,Shardul Pandit,Radio Jockey,Male,,,6,Yes,143,22,03-Oct-20,21-Feb-21,Salman Khan,,0,Colors,,2,0,0,,0,0
+Hindi,14,Aly Goni,Actor,Male,,,20,Yes,143,22,03-Oct-20,21-Feb-21,Salman Khan,,0,Colors,,9,1,1,,1,0
+Hindi,14,Sonali Phogat,Social Media Star,Female,,,17,Yes,143,22,03-Oct-20,21-Feb-21,Salman Khan,,0,Colors,,2,0,0,,0,0
+Hindi,14,Vikas Gupta,Producer,Male,,,18,Yes,143,22,03-Oct-20,21-Feb-21,Salman Khan,,0,Colors,,1,3,0,,0,0
+Hindi,14,Rakhi Sawant,Actress,Female,,,20,Yes,143,22,03-Oct-20,21-Feb-21,Salman Khan,,0,Colors,,5,0,0,,1,0
+Hindi,14,Kashmera Shah,Actress,Female,,,11,Yes,143,22,03-Oct-20,21-Feb-21,Salman Khan,,0,Colors,,2,0,0,,0,0
+Hindi,14,Rahul Mahajan,Politician,Male,,,13,Yes,143,22,03-Oct-20,21-Feb-21,Salman Khan,,0,Colors,,3,0,0,,0,0
+Hindi,14,Arshi Khan,Model,Female,,,19,Yes,143,22,03-Oct-20,21-Feb-21,Salman Khan,,0,Colors,,3,0,0,,0,0
+Hindi,14,Manu Punjabi,Reality Show Alumni,Male,,,12,Yes,143,22,03-Oct-20,21-Feb-21,Salman Khan,,0,Colors,,2,0,1,,0,0
+Hindi,15,Afsana Khan,Singer,Female,02-Oct-21,,,No,143,16,02-Oct-21,21-Feb-22,Salman Khan,,,Colors,,,,,,,
+Hindi,15,Akasa Singh,Singer,Female,02-Oct-21,,,No,143,16,02-Oct-21,21-Feb-22,Salman Khan,,,Colors,,,,,,,
+Hindi,15,Donal Bisht,Soap Actress,Female,02-Oct-21,,,No,143,16,02-Oct-21,21-Feb-22,Salman Khan,,,Colors,,,,,,,
+Hindi,15,Ieshaan Sehgal,Soap Actor,Male,02-Oct-21,,,No,143,16,02-Oct-21,21-Feb-22,Salman Khan,,,Colors,,,,,,,
+Hindi,15,Jay Bhanushali,Actor,Male,02-Oct-21,,,No,143,16,02-Oct-21,21-Feb-22,Salman Khan,,,Colors,,,,,,,
+Hindi,15,Karan Kundra,Soap Actor,Male,02-Oct-21,,,No,143,16,02-Oct-21,21-Feb-22,Salman Khan,,,Colors,,,,,,,
+Hindi,15,Miesha Iyer,Reality Show Alumni,Female,02-Oct-21,,,No,143,16,02-Oct-21,21-Feb-22,Salman Khan,,,Colors,,,,,,,
+Hindi,15,Nishant Bhat,Choreographer,Male,02-Oct-21,,,No,143,16,02-Oct-21,21-Feb-22,Salman Khan,,,Colors,,,,,,,
+Hindi,15,Pratik Sehajpal,Reality Show Alumni,Male,02-Oct-21,,,No,143,16,02-Oct-21,21-Feb-22,Salman Khan,,,Colors,,,,,,,
+Hindi,15,Sahil Shroff,Actor,Male,02-Oct-21,,,No,143,16,02-Oct-21,21-Feb-22,Salman Khan,,,Colors,,,,,,,
+Hindi,15,Shamita Shetty,Actress,Female,02-Oct-21,,,No,143,16,02-Oct-21,21-Feb-22,Salman Khan,,,Colors,,,,,,,
+Hindi,15,Simba Nagpal,Soap Actor,Male,02-Oct-21,,,No,143,16,02-Oct-21,21-Feb-22,Salman Khan,,,Colors,,,,,,,
+Hindi,15,Tejasswi Prakash,Soap Actress,Female,02-Oct-21,,,No,143,16,02-Oct-21,21-Feb-22,Salman Khan,,,Colors,,,,,,,
+Hindi,15,Umar Riaz,Doctor,Male,02-Oct-21,,,No,143,16,02-Oct-21,21-Feb-22,Salman Khan,,,Colors,,,,,,,
+Hindi,15,Vidhi Pandya,Soap Actress,Female,02-Oct-21,,,No,143,16,02-Oct-21,21-Feb-22,Salman Khan,,,Colors,,,,,,,
+Hindi,15,Vishal Kotian,Soap Actor,Male,02-Oct-21,,,No,143,16,02-Oct-21,21-Feb-22,Salman Khan,,,Colors,,,,,,,
 Kannada,1,Anushree,TV Anchor,Female,24-Mar-13,,11,No,98,15,24-Mar-13,30-Jun-13,Sudeep,,0,ETV Kannada,4.70,3,0,,,0,0
 Kannada,1,Aparna,TV Anchor,Female,24-Mar-13,,6,No,98,15,24-Mar-13,30-Jun-13,Sudeep,,0,ETV Kannada,4.70,1,0,,,0,0
 Kannada,1,Arun Sagar,Art Director,Male,24-Mar-13,30-Jun-13,14,No,98,15,24-Mar-13,30-Jun-13,Sudeep,,0,ETV Kannada,4.70,5,0,,,1,0
@@ -298,24 +321,24 @@ Kannada,3,Tsunami Kitty,Reality Show Alumni,Male,25-Oct-15,,12,No,98,18,25-Oct-1
 Kannada,3,Mithra,Comedian,Male,,,8,Yes,98,18,25-Oct-15,31-Jan-16,Sudeep,,0,Colors Kannada,,1,0,0,,0,0
 Kannada,3,Gowthami Gowda,Actress,Female,,,12,Yes,98,18,25-Oct-15,31-Jan-16,Sudeep,,0,Colors Kannada,,2,0,1,,0,0
 Kannada,3,Sushma Veer,Theatre Artist,Female,,,11,Yes,98,18,25-Oct-15,31-Jan-16,Sudeep,,0,Colors Kannada,,2,0,0,,0,0
-Kannada,4,Bhuvan Ponnanna,Model,Male,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,,,,0,0
-Kannada,4,Chaitra,Singer,Female,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,,,,0,0
-Kannada,4,Dodda Ganesh,Sports Person,Male,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,,,,0,0
-Kannada,4,Karunya Ram ,Actress,Female,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,,,,0,0
-Kannada,4,Kavya Shastri,News Presenter,Female,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,,,,0,0
-Kannada,4,Kirik Keerthi,Producer,Male,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,,,,1,0
-Kannada,4,Malavika Avinash,Actress,Female,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,,,,1,0
-Kannada,4,Mohan Shankar,Actor,Male,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,,,,1,0
-Kannada,4,Niranjan Deshpande,Radio Jockey,Male,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,,,,0,0
-Kannada,4,Pratham,Film Director,Male,09-Oct-16,NA,NA,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,"50,00,000",Colors Kannada,,,,,,1,1
-Kannada,4,Rekha,Actress,Female,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,,,,1,0
-Kannada,4,Sanjana Chidanand,Soap Actress,Female,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,,,,0,0
-Kannada,4,Shalini Satyanarayan,Soap Actress,Female,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,,,,0,0
-Kannada,4,Sheetal Shetty,News Presenter,Female,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,,,,0,0
-Kannada,4,Vanishree,Soap Actress,Female,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,,,,0,0
-Kannada,4,Omprakash Rao,Film Director,Male,,,,Yes,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,,,,0,0
-Kannada,4,Sukrutha Wagle,Actress,Female,,,,Yes,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,,,,0,0
-Kannada,4,Masthan Chandra,Actor,Male,,,,Yes,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,,,,0,0
+Kannada,4,Bhuvan Ponnanna,Model,Male,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,0,,,0,0
+Kannada,4,Chaitra,Singer,Female,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,0,,,0,0
+Kannada,4,Dodda Ganesh,Sports Person,Male,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,0,,,0,0
+Kannada,4,Karunya Ram ,Actress,Female,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,0,,,0,0
+Kannada,4,Kavya Shastri,News Presenter,Female,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,0,,,0,0
+Kannada,4,Kirik Keerthi,Producer,Male,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,0,,,1,0
+Kannada,4,Malavika Avinash,Actress,Female,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,0,,,1,0
+Kannada,4,Mohan Shankar,Actor,Male,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,0,,,1,0
+Kannada,4,Niranjan Deshpande,Radio Jockey,Male,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,0,,,0,0
+Kannada,4,Pratham,Film Director,Male,09-Oct-16,NA,NA,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,"50,00,000",Colors Kannada,,,0,,,1,1
+Kannada,4,Rekha,Actress,Female,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,0,,,1,0
+Kannada,4,Sanjana Chidanand,Soap Actress,Female,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,0,,,0,0
+Kannada,4,Shalini Satyanarayan,Soap Actress,Female,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,0,,,0,0
+Kannada,4,Sheetal Shetty,News Presenter,Female,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,0,,,0,0
+Kannada,4,Vanishree,Soap Actress,Female,09-Oct-16,,,No,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,0,,,0,0
+Kannada,4,Omprakash Rao,Film Director,Male,,,,Yes,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,0,,,0,0
+Kannada,4,Sukrutha Wagle,Actress,Female,,,,Yes,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,0,,,0,0
+Kannada,4,Masthan Chandra,Actor,Male,,,,Yes,112,18,09-Oct-16,29-Jan-17,Sudeep,,0,Colors Kannada,,,0,,,0,0
 Kannada,5,Anupama Gowda,Soap Actress,Female,15-Oct-17,,14,No,106,20,15-Oct-17,28-Jan-18,Sudeep,,0,Colors Kannada,,6,0,2,,0,0
 Kannada,5,Ashitha Chandrappa,Soap Actress,Female,15-Oct-17,,8,No,106,20,15-Oct-17,28-Jan-18,Sudeep,,0,Colors Kannada,,2,0,0,,0,0
 Kannada,5,Chandan Shetty,Singer,Male,15-Oct-17,NA,NA,No,106,20,15-Oct-17,28-Jan-18,Sudeep,,"50,00,000",Colors Kannada,,5,0,1,9,1,1
@@ -376,76 +399,115 @@ Kannada,7,Sujatha Satyanarayan,Radio Jockey,Female,13-Oct-19,,6,No,113,20,13-Oct
 Kannada,7,Vasuki Vaibhav,Musician,Male,13-Oct-19,,16,No,113,20,13-Oct-19,02-Feb-20,Sudeep,,0,Colors Kannada,,5,0,1,7,1,0
 Kannada,7,RJ Prithvi,Radio Jockey,Male,,,7,Yes,113,20,13-Oct-19,02-Feb-20,Sudeep,,0,Colors Kannada,,2,0,0,,0,0
 Kannada,7,Raksha Somashekhar,Actress,Female,,,8,Yes,113,20,13-Oct-19,02-Feb-20,Sudeep,,0,Colors Kannada,,1,0,0,,0,0
-Telugu,1,Aadarsh Balakrishna,Actor,Male,16-Jul-17,24-Sep-17,10,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,,4,0,1,7,1,0
-Telugu,1,Archana,Actress,Female,16-Jul-17,24-Sep-17,10,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,,6,0,0,5,1,0
-Telugu,1,Dhanraj,Comedian,Male,16-Jul-17,26-Aug-17,6,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,,3,0,0,,0,0
-Telugu,1,Hari Teja,Actress,Female,16-Jul-17,24-Sep-17,10,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,,6,0,1,5,1,0
-Telugu,1,Jyothi,Actress,Female,16-Jul-17,23-Jul-17,1,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,,1,0,0,,0,0
-Telugu,1,Kalpana Raghavendar,Singer,Female,16-Jul-17,13-Aug-17,4,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,,2,0,1,,0,0
-Telugu,1,Kathi Karthika,TV Anchor,Female,16-Jul-17,27-Aug-17,6,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,,2,0,0,,0,0
-Telugu,1,Madhu Priya,Singer,Female,16-Jul-17,30-Jul-17,2,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,,2,0,0,,0,0
-Telugu,1,Mahesh Kathi,Film Critic,Male,16-Jul-17,12-Aug-17,4,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,,3,0,0,,0,0
-Telugu,1,Mumaith Khan,Actress,Female,16-Jul-17,3-Sep-17,7,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,,3,2,0,,0,0
-Telugu,1,Prince Cecil,Actor,Male,16-Jul-17,10-Sep-17,8,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,,3,0,1,,0,0
-Telugu,1,Sameer Hasan,Actor,Male,16-Jul-17,6-Aug-17,3,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,,2,0,0,,0,0
-Telugu,1,Sampoornesh Babu,Actor,Male,16-Jul-17,25-Jul-17,NA,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,,1,0,1,,0,0
-Telugu,1,Siva Balaji,Actor,Male,16-Jul-17,NA,NA,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,"50,00,000",Star Maa,,4,0,2,8,1,1
-Telugu,1,Diksha Panth,Actress,Female,31-Jul-17,17-Sep-17,9,Yes,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,,3,0,1,,0,0
-Telugu,1,Navdeep,Actor,Male,14-Aug-17,24-Sep-17,10,Yes,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,,3,0,1,9,1,0
-Telugu,2,Amit Tiwari,Actor,Male,10-Jun-18,,14,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,,4,0,1,,0,0
-Telugu,2,Babu Gogineni,Activist,Male,10-Jun-18,,9,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,,5,0,0,,0,0
-Telugu,2,Bhanu Sree,Actress,Female,10-Jun-18,,5,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,,2,0,0,,0,0
-Telugu,2,Deepti Nallamuthu,TV Anchor,Female,10-Jun-18,30-Sep-18,16,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,,11,0,1,5,1,0
-Telugu,2,Deepthi Sunaina,Social Media Star,Female,10-Jun-18,,10,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,,4,0,0,,0,0
-Telugu,2,Ganesh,Commoner - RJ,Male,10-Jun-18,,11,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,,9,0,0,,0,0
-Telugu,2,Geetha Madhuri,Singer,Female,10-Jun-18,30-Sep-18,16,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,,7,0,2,8,1,0
-Telugu,2,Kaushal Manda,Actor,Male,10-Jun-18,NA,NA,No,112,18,10-Jun-18,30-Sep-18,Nani,,"50,00,000",Star Maa,,11,0,1,10,1,1
-Telugu,2,Kireeti Damaraju,Actor,Male,10-Jun-18,,3,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,,2,0,0,,0,0
-Telugu,2,Nutan Naidu,Commoner - Social Activist,Male,10-Jun-18,,11,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,,4,2,0,,0,0
-Telugu,2,Roll Rida,Singer,Male,10-Jun-18,,15,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,,4,0,2,5,0,0
-Telugu,2,Samrat Reddy,Actor,Male,10-Jun-18,30-Sep-18,16,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,,3,0,1,5,1,0
-Telugu,2,Sanjana Anne,Commoner - Pageant Winner,Female,10-Jun-18,,1,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,,1,0,0,,0,0
-Telugu,2,Syamala Pavala,TV Anchor,Female,10-Jun-18,,13,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,,5,1,0,,0,0
-Telugu,2,Tanish Alladi,Actor,Male,10-Jun-18,30-Sep-18,16,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,,5,0,2,7,1,0
-Telugu,2,Tejaswi Madivada,Actress,Female,10-Jun-18,,6,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,,3,0,0,,0,0
-Telugu,2,Nandini Rai,Actress,Female,17-Jun-18,,8,Yes,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,,4,0,0,,0,0
-Telugu,2,Pooja Ramachandran,Actress,Female,,,11,Yes,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,,2,0,1,,0,0
-Telugu,3,Ali Reza,Actor,Male,21-Jul-19,03-Nov-19,15,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,,3,1,1,6,1,0
-Telugu,3,Ashu Reddy,Social Media Star,Female,21-Jul-19,25-Aug-19,5,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,,1,0,0,,0,0
-Telugu,3,Baba Bhaskar,Choreographer,Male,21-Jul-19,03-Nov-19,15,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,,6,0,1,7,1,0
-Telugu,3,Hema,Actress,Female,21-Jul-19,28-Jul-19,1,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,,1,0,0,,0,0
-Telugu,3,Himaja,Actress,Female,21-Jul-19,22-Sep-19,9,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,,6,0,0,,0,0
-Telugu,3,Jaffar Babu,TV Anchor,Male,21-Jul-19,04-Aug-19,2,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,,2,0,0,,0,0
-Telugu,3,Mahesh Vitta,Actor,Male,21-Jul-19,13-Oct-19,12,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,,8,0,1,,0,0
-Telugu,3,Punarnavi Bhupalam,Actress,Female,21-Jul-19,06-Oct-19,11,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,,7,0,0,7,0,0
-Telugu,3,Rahul Sipligunj,Singer,Male,21-Jul-19,NA,NA,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,"50,00,000",Star Maa,,11,0,0,9,1,1
-Telugu,3,Ravi Krishna,Soap Actor,Male,21-Jul-19,29-Sep-19,10,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,,4,0,0,,0,0
-Telugu,3,Rohini,Soap Actress,Female,21-Jul-19,18-Aug-19,4,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,,1,0,0,,0,0
-Telugu,3,Siva Jyothi,TV Anchor,Female,21-Jul-19,27-Oct-19,14,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,,4,0,1,,0,0
-Telugu,3,Sreemukhi,TV Anchor,Female,21-Jul-19,03-Nov-19,15,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,,7,0,1,9,1,0
-Telugu,3,Varun Sandesh,Actor,Male,21-Jul-19,03-Nov-19,15,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,,8,0,2,6,1,0
-Telugu,3,Vithika Sheru,Actress,Female,21-Jul-19,20-Oct-19,13,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,,4,0,1,,0,0
-Telugu,3,Tamanna Simhadri,LGBT,Transgender,28-Jul-19,11-Aug-19,3,Yes,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,,1,0,0,,0,0
-Telugu,3,Shilpa Chakravarthy,TV Anchor,Female,02-Sep-19,15-Sep-19,8,Yes,100,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,,1,0,0,,0,0
-Telugu,4,Abijeet,Actor,Male,06-Sep-20,,,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,,Star Maa,,12,0,0,9,1,
-Telugu,4,Akhil Sarthak,Actor,Male,06-Sep-20,,,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,,Star Maa,,7,0,1,9,1,
-Telugu,4,Alekya Harika,Social Media Star,Female,06-Sep-20,,,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,,Star Maa,,10,0,1,7,1,
-Telugu,4,Amma Rajasekhar,Choreographer,Male,06-Sep-20,08-Nov-20,9,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,,4,0,1,4,0,0
-Telugu,4,Ariyana Glory,TV Anchor,Female,06-Sep-20,,,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,,Star Maa,,10,0,1,7,1,
-Telugu,4,Devi Nagavalli,News Presenter,Female,06-Sep-20,27-Sep-20,3,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,,1,0,0,4,0,0
-Telugu,4,Divi Vadthaya,Model,Female,06-Sep-20,25-Oct-20,7,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,,3,0,0,5,0,0
-Telugu,4,Gangavva,Social Media Star,Female,06-Sep-20,10-Oct-20,5,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,,2,0,1,7,0,0
-Telugu,4,Karate Kalyani,Actress,Female,06-Sep-20,20-Sep-20,2,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,,1,0,0,2,0,0
-Telugu,4,Lasya,TV Anchor,Female,06-Sep-20,22-Nov-20,11,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,,6,0,1,5,0,0
-Telugu,4,Mehaboob Dil Se,Social Media Star,Male,06-Sep-20,15-Nov-20,10,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,,5,0,1,5,0,0
-Telugu,4,Monal Gajjar,Actress,Female,06-Sep-20,13-Dec-20,14,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,,12,0,0,7,0,0
-Telugu,4,Noel Sean,Singer,Male,06-Sep-20,30-Oct-20,8,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,,4,0,2,8,0,0
-Telugu,4,Sujatha,News Presenter,Female,06-Sep-20,11-Oct-20,5,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,,2,0,0,4,0,0
-Telugu,4,Surya Kiran,Film Director,Male,06-Sep-20,13-Sep-20,1,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,,1,0,0,2,0,0
-Telugu,4,Syed Sohel Ryan,Soap Actor,Male,06-Sep-20,,,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,,Star Maa,,7,0,1,7,1,
-Telugu,4,Kumar Sai,Actor,Male,13-Sep-20,18-Oct-20,6,Yes,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,,4,0,1,6,0,0
-Telugu,4,Avinash,Comedian,Male,19-Sep-20,06-Dec-20,13,Yes,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,,4,0,1,8,0,0
-Telugu,4,Swathi Deekshith,Actress,Female,25-Sep-20,04-Oct-20,4,Yes,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,,1,0,0,4,0,0
+Kannada,8,Aravind KP,Sports Person,Male,28-Feb-21,,,No,117,20,28-Feb-21,08-Aug-21,Sudeep,,0,Colors Kannada,,9,0,3,9,1,0
+Kannada,8,Chandrakala Mohan,Soap Actress,Female,28-Feb-21,,4,No,117,20,28-Feb-21,08-Aug-21,Sudeep,,0,Colors Kannada,,2,0,0,,0,0
+Kannada,8,Dhanushree,Social Media Star,Female,28-Feb-21,07-Mar-21,1,No,117,20,28-Feb-21,08-Aug-21,Sudeep,,0,Colors Kannada,,1,0,0,,0,0
+Kannada,8,Divya Suresh,Actress,Female,28-Feb-21,,17,No,117,20,28-Feb-21,08-Aug-21,Sudeep,,0,Colors Kannada,,11,0,1,6,0,0
+Kannada,8,Divya Uruduga Rajeev,Actress,Female,28-Feb-21,,,No,117,20,28-Feb-21,08-Aug-21,Sudeep,,0,Colors Kannada,,7,0,2,8,1,0
+Kannada,8,Geetha Bharathi Bhat,Soap Actress,Female,28-Feb-21,,3,No,117,20,28-Feb-21,08-Aug-21,Sudeep,,0,Colors Kannada,,2,0,0,,0,0
+Kannada,8,Manju Pavagada,Comedian,Male,28-Feb-21,NA,NA,No,117,20,28-Feb-21,08-Aug-21,Sudeep,,"50,00,000",Colors Kannada,,9,0,1,9,1,1
+Kannada,8,Nidhi Subbaiah,Actress,Female,28-Feb-21,,12,No,117,20,28-Feb-21,08-Aug-21,Sudeep,,0,Colors Kannada,,6,0,0,,0,0
+Kannada,8,Nirmala Chennappa,Actress,Female,28-Feb-21,14-Mar-21,2,No,117,20,28-Feb-21,08-Aug-21,Sudeep,,0,Colors Kannada,,2,0,0,,0,0
+Kannada,8,Prashanth Sambargi,Activist,Male,28-Feb-21,,,No,117,20,28-Feb-21,08-Aug-21,Sudeep,,0,Colors Kannada,,15,0,1,7,1,0
+Kannada,8,Raghu Gowda,Social Media Star,Male,28-Feb-21,,13,No,117,20,28-Feb-21,08-Aug-21,Sudeep,,0,Colors Kannada,,6,0,1,,0,0
+Kannada,8,Rajeev Hanu,Actor,Male,28-Feb-21,,8,No,117,20,28-Feb-21,08-Aug-21,Sudeep,,0,Colors Kannada,,4,0,1,,0,0
+Kannada,8,Shamanth Gowda ,Social Media Star,Male,28-Feb-21,,16,No,117,20,28-Feb-21,08-Aug-21,Sudeep,,0,Colors Kannada,,8,0,2,,0,0
+Kannada,8,Shankar Ashwath,Actor,Male,28-Feb-21,,5,No,117,20,28-Feb-21,08-Aug-21,Sudeep,,0,Colors Kannada,,2,0,0,,0,0
+Kannada,8,Shubha Poonja,Actress,Female,28-Feb-21,,16,No,117,20,28-Feb-21,08-Aug-21,Sudeep,,0,Colors Kannada,,8,0,0,,0,0
+Kannada,8,Vaishnavi Gowda,Soap Actress,Female,28-Feb-21,,,No,117,20,28-Feb-21,08-Aug-21,Sudeep,,0,Colors Kannada,,6,0,0,8,1,0
+Kannada,8,Vishwanath Haveri,Singer,Male,28-Feb-21,,7,No,117,20,28-Feb-21,08-Aug-21,Sudeep,,0,Colors Kannada,,5,0,1,,0,0
+Kannada,8,Chakravarty Chandrachud,Film Director,Male,,,16,Yes,117,20,28-Feb-21,08-Aug-21,Sudeep,,0,Colors Kannada,,5,0,1,,0,0
+Kannada,8,Vyjayanthi Adiga,Actress,Female,,,6,Yes,117,20,28-Feb-21,08-Aug-21,Sudeep,,0,Colors Kannada,,0,0,0,,0,0
+Kannada,8,Priyanka Thimmesh,Actress,Female,,,14,Yes,117,20,28-Feb-21,08-Aug-21,Sudeep,,0,Colors Kannada,,5,0,0,,0,0
+Telugu,1,Aadarsh Balakrishna,Actor,Male,16-Jul-17,24-Sep-17,10,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,15.00,4,0,1,7,1,0
+Telugu,1,Archana,Actress,Female,16-Jul-17,24-Sep-17,10,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,15.00,6,0,0,5,1,0
+Telugu,1,Dhanraj,Comedian,Male,16-Jul-17,26-Aug-17,6,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,15.00,3,0,0,,0,0
+Telugu,1,Hari Teja,Actress,Female,16-Jul-17,24-Sep-17,10,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,15.00,6,0,1,5,1,0
+Telugu,1,Jyothi,Actress,Female,16-Jul-17,23-Jul-17,1,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,15.00,1,0,0,,0,0
+Telugu,1,Kalpana Raghavendar,Singer,Female,16-Jul-17,13-Aug-17,4,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,15.00,2,0,1,,0,0
+Telugu,1,Kathi Karthika,TV Anchor,Female,16-Jul-17,27-Aug-17,6,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,15.00,2,0,0,,0,0
+Telugu,1,Madhu Priya,Singer,Female,16-Jul-17,30-Jul-17,2,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,15.00,2,0,0,,0,0
+Telugu,1,Mahesh Kathi,Film Critic,Male,16-Jul-17,12-Aug-17,4,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,15.00,3,0,0,,0,0
+Telugu,1,Mumaith Khan,Actress,Female,16-Jul-17,3-Sep-17,7,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,15.00,3,2,0,,0,0
+Telugu,1,Prince Cecil,Actor,Male,16-Jul-17,10-Sep-17,8,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,15.00,3,0,1,,0,0
+Telugu,1,Sameer Hasan,Actor,Male,16-Jul-17,6-Aug-17,3,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,15.00,2,0,0,,0,0
+Telugu,1,Sampoornesh Babu,Actor,Male,16-Jul-17,25-Jul-17,NA,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,15.00,1,0,1,,0,0
+Telugu,1,Siva Balaji,Actor,Male,16-Jul-17,NA,NA,No,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,"50,00,000",Star Maa,15.00,4,0,2,8,1,1
+Telugu,1,Diksha Panth,Actress,Female,31-Jul-17,17-Sep-17,9,Yes,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,15.00,3,0,1,,0,0
+Telugu,1,Navdeep,Actor,Male,14-Aug-17,24-Sep-17,10,Yes,70,16,16-Jul-17,24-Sep-17,Jr. NTR,,0,Star Maa,15.00,3,0,1,9,1,0
+Telugu,2,Amit Tiwari,Actor,Male,10-Jun-18,,14,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,15.00,4,0,1,,0,0
+Telugu,2,Babu Gogineni,Activist,Male,10-Jun-18,,9,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,15.00,5,0,0,,0,0
+Telugu,2,Bhanu Sree,Actress,Female,10-Jun-18,,5,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,15.00,2,0,0,,0,0
+Telugu,2,Deepti Nallamuthu,TV Anchor,Female,10-Jun-18,30-Sep-18,16,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,15.00,11,0,1,5,1,0
+Telugu,2,Deepthi Sunaina,Social Media Star,Female,10-Jun-18,,10,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,15.00,4,0,0,,0,0
+Telugu,2,Ganesh,Commoner - RJ,Male,10-Jun-18,,11,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,15.00,9,0,0,,0,0
+Telugu,2,Geetha Madhuri,Singer,Female,10-Jun-18,30-Sep-18,16,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,15.00,7,0,2,8,1,0
+Telugu,2,Kaushal Manda,Actor,Male,10-Jun-18,NA,NA,No,112,18,10-Jun-18,30-Sep-18,Nani,,"50,00,000",Star Maa,15.00,11,0,1,10,1,1
+Telugu,2,Kireeti Damaraju,Actor,Male,10-Jun-18,,3,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,15.00,2,0,0,,0,0
+Telugu,2,Nutan Naidu,Commoner - Social Activist,Male,10-Jun-18,,11,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,15.00,4,2,0,,0,0
+Telugu,2,Roll Rida,Singer,Male,10-Jun-18,,15,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,15.00,4,0,2,5,0,0
+Telugu,2,Samrat Reddy,Actor,Male,10-Jun-18,30-Sep-18,16,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,15.00,3,0,1,5,1,0
+Telugu,2,Sanjana Anne,Commoner - Pageant Winner,Female,10-Jun-18,,1,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,15.00,1,0,0,,0,0
+Telugu,2,Syamala Pavala,TV Anchor,Female,10-Jun-18,,13,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,15.00,5,1,0,,0,0
+Telugu,2,Tanish Alladi,Actor,Male,10-Jun-18,30-Sep-18,16,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,15.00,5,0,2,7,1,0
+Telugu,2,Tejaswi Madivada,Actress,Female,10-Jun-18,,6,No,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,15.00,3,0,0,,0,0
+Telugu,2,Nandini Rai,Actress,Female,17-Jun-18,,8,Yes,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,15.00,4,0,0,,0,0
+Telugu,2,Pooja Ramachandran,Actress,Female,,,11,Yes,112,18,10-Jun-18,30-Sep-18,Nani,,0,Star Maa,15.00,2,0,1,,0,0
+Telugu,3,Ali Reza,Actor,Male,21-Jul-19,03-Nov-19,15,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,18.10,3,1,1,6,1,0
+Telugu,3,Ashu Reddy,Social Media Star,Female,21-Jul-19,25-Aug-19,5,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,18.10,1,0,0,,0,0
+Telugu,3,Baba Bhaskar,Choreographer,Male,21-Jul-19,03-Nov-19,15,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,18.10,6,0,1,7,1,0
+Telugu,3,Hema,Actress,Female,21-Jul-19,28-Jul-19,1,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,18.10,1,0,0,,0,0
+Telugu,3,Himaja,Actress,Female,21-Jul-19,22-Sep-19,9,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,18.10,6,0,0,,0,0
+Telugu,3,Jaffar Babu,TV Anchor,Male,21-Jul-19,04-Aug-19,2,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,18.10,2,0,0,,0,0
+Telugu,3,Mahesh Vitta,Actor,Male,21-Jul-19,13-Oct-19,12,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,18.10,8,0,1,,0,0
+Telugu,3,Punarnavi Bhupalam,Actress,Female,21-Jul-19,06-Oct-19,11,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,18.10,7,0,0,7,0,0
+Telugu,3,Rahul Sipligunj,Singer,Male,21-Jul-19,NA,NA,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,"50,00,000",Star Maa,18.10,12,0,0,9,1,1
+Telugu,3,Ravi Krishna,Soap Actor,Male,21-Jul-19,29-Sep-19,10,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,18.10,4,0,0,,0,0
+Telugu,3,Rohini,Soap Actress,Female,21-Jul-19,18-Aug-19,4,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,18.10,1,0,0,,0,0
+Telugu,3,Siva Jyothi,TV Anchor,Female,21-Jul-19,27-Oct-19,14,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,18.10,4,0,1,,0,0
+Telugu,3,Sreemukhi,TV Anchor,Female,21-Jul-19,03-Nov-19,15,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,18.10,7,0,1,9,1,0
+Telugu,3,Varun Sandesh,Actor,Male,21-Jul-19,03-Nov-19,15,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,18.10,8,0,2,6,1,0
+Telugu,3,Vithika Sheru,Actress,Female,21-Jul-19,20-Oct-19,13,No,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,18.10,4,0,1,,0,0
+Telugu,3,Tamanna Simhadri,LGBT,Transgender,28-Jul-19,11-Aug-19,3,Yes,105,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,18.10,1,0,0,,0,0
+Telugu,3,Shilpa Chakravarthy,TV Anchor,Female,02-Sep-19,15-Sep-19,8,Yes,100,17,21-Jul-19,03-Nov-19,Nagarjuna,Ramya Krishnan,0,Star Maa,18.10,1,0,0,,0,0
+Telugu,4,Abijeet,Actor,Male,06-Sep-20,NA,NA,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,"25,00,000",Star Maa,20.10,12,0,0,9,1,1
+Telugu,4,Akhil Sarthak,Actor,Male,06-Sep-20,20-Dec-20,15,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,20.10,7,0,1,9,1,0
+Telugu,4,Alekya Harika,Social Media Star,Female,06-Sep-20,20-Dec-20,15,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,20.10,10,0,1,7,1,0
+Telugu,4,Amma Rajasekhar,Choreographer,Male,06-Sep-20,08-Nov-20,9,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,20.10,4,0,1,4,0,0
+Telugu,4,Ariyana Glory,TV Anchor,Female,06-Sep-20,20-Dec-20,15,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,20.10,10,0,1,7,1,0
+Telugu,4,Devi Nagavalli,News Presenter,Female,06-Sep-20,27-Sep-20,3,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,20.10,1,0,0,4,0,0
+Telugu,4,Divi Vadthaya,Model,Female,06-Sep-20,25-Oct-20,7,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,20.10,3,0,0,5,0,0
+Telugu,4,Gangavva,Social Media Star,Female,06-Sep-20,10-Oct-20,5,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,20.10,2,0,1,7,0,0
+Telugu,4,Karate Kalyani,Actress,Female,06-Sep-20,20-Sep-20,2,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,20.10,1,0,0,2,0,0
+Telugu,4,Lasya,TV Anchor,Female,06-Sep-20,22-Nov-20,11,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,20.10,6,0,1,5,0,0
+Telugu,4,Mehaboob Dil Se,Social Media Star,Male,06-Sep-20,15-Nov-20,10,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,20.10,5,0,1,5,0,0
+Telugu,4,Monal Gajjar,Actress,Female,06-Sep-20,13-Dec-20,14,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,20.10,12,0,0,7,0,0
+Telugu,4,Noel Sean,Singer,Male,06-Sep-20,30-Oct-20,8,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,20.10,4,0,2,8,0,0
+Telugu,4,Sujatha,News Presenter,Female,06-Sep-20,11-Oct-20,5,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,20.10,2,0,0,4,0,0
+Telugu,4,Surya Kiran,Film Director,Male,06-Sep-20,13-Sep-20,1,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,20.10,1,0,0,2,0,0
+Telugu,4,Syed Sohel Ryan,Soap Actor,Male,06-Sep-20,20-Dec-20,15,No,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,"25,00,000",Star Maa,20.10,7,0,1,7,1,0
+Telugu,4,Kumar Sai,Actor,Male,13-Sep-20,18-Oct-20,6,Yes,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,20.10,4,0,1,6,0,0
+Telugu,4,Avinash,Comedian,Male,19-Sep-20,06-Dec-20,13,Yes,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,20.10,4,0,1,8,0,0
+Telugu,4,Swathi Deekshith,Actress,Female,25-Sep-20,04-Oct-20,4,Yes,105,19,06-Sep-20,20-Dec-20,Nagarjuna,Samantha Akkineni,0,Star Maa,20.10,1,0,0,4,0,0
+Telugu,5,Anee,Choreographer,Female,05-Sep-21,,,No,106,19,05-Sep-21,19-Dec-21,Nagarjuna,,,Star Maa,,2,0,0,,,
+Telugu,5,Hamida,Actress,Female,05-Sep-21,,,No,106,19,05-Sep-21,19-Dec-21,Nagarjuna,,,Star Maa,,2,0,0,,,
+Telugu,5,Jaswanth Padala,Model,Male,05-Sep-21,,,No,106,19,05-Sep-21,19-Dec-21,Nagarjuna,,,Star Maa,,2,0,1,,,
+Telugu,5,Kajal,Radio Jockey,Female,05-Sep-21,,,No,106,19,05-Sep-21,19-Dec-21,Nagarjuna,,,Star Maa,,3,0,0,,,
+Telugu,5,Lahari Shari,Actress,Female,05-Sep-21,26-Sep-21,3,No,106,19,05-Sep-21,19-Dec-21,Nagarjuna,,0,Star Maa,,1,0,0,,0,0
+Telugu,5,Lobo,Video Jockey,Male,05-Sep-21,,,No,106,19,05-Sep-21,19-Dec-21,Nagarjuna,,,Star Maa,,3,0,0,,,
+Telugu,5,Maanas,Soap Actor,Male,05-Sep-21,,,No,106,19,05-Sep-21,19-Dec-21,Nagarjuna,,,Star Maa,,3,0,0,,,
+Telugu,5,Nataraj,Choreographer,Male,05-Sep-21,03-Oct-21,4,No,106,19,05-Sep-21,19-Dec-21,Nagarjuna,,0,Star Maa,,2,0,0,,0,0
+Telugu,5,Priya,Actress,Female,05-Sep-21,,,No,106,19,05-Sep-21,19-Dec-21,Nagarjuna,,,Star Maa,,4,0,0,,,
+Telugu,5,Priyanka Singh,Comedian,Transgender,05-Sep-21,,,No,106,19,05-Sep-21,19-Dec-21,Nagarjuna,,,Star Maa,,2,0,0,,,
+Telugu,5,Ravi,TV Anchor,Male,05-Sep-21,,,No,106,19,05-Sep-21,19-Dec-21,Nagarjuna,,,Star Maa,,3,0,0,,,
+Telugu,5,Sarayu,Social Media Star,Female,05-Sep-21,12-Sep-21,1,No,106,19,05-Sep-21,19-Dec-21,Nagarjuna,,0,Star Maa,,1,0,0,,0,0
+Telugu,5,Shanmukh Jaswanth,Social Media Star,Male,05-Sep-21,,,No,106,19,05-Sep-21,19-Dec-21,Nagarjuna,,,Star Maa,,1,0,0,,,
+Telugu,5,Siri Hanumanth,Social Media Star,Female,05-Sep-21,,,No,106,19,05-Sep-21,19-Dec-21,Nagarjuna,,,Star Maa,,1,0,1,,,
+Telugu,5,Sreerama Chandra,Singer,Male,05-Sep-21,,,No,106,19,05-Sep-21,19-Dec-21,Nagarjuna,,,Star Maa,,1,0,1,,,
+Telugu,5,Sunny,Video Jockey,Male,05-Sep-21,,,No,106,19,05-Sep-21,19-Dec-21,Nagarjuna,,,Star Maa,,2,0,0,,,
+Telugu,5,Swetaa Varma,Actress,Female,05-Sep-21,,,No,106,19,05-Sep-21,19-Dec-21,Nagarjuna,,,Star Maa,,0,0,0,,,
+Telugu,5,Umadevi,Actress,Female,05-Sep-21,19-Sep-21,2,No,106,19,05-Sep-21,19-Dec-21,Nagarjuna,,0,Star Maa,,1,0,0,,0,0
+Telugu,5,Vishwa,Actor,Male,05-Sep-21,,,No,106,19,05-Sep-21,19-Dec-21,Nagarjuna,,,Star Maa,,1,0,1,,,
 Tamil,1,Aarav Nafeez,Model,Male,25-Jun-17,NA,NA,No,98,19,25-Jun-17,30-Sep-17,Kamal Haasan,,"50,00,000",Star Vijay,7.80,7,0,1,7,1,1
 Tamil,1,Anuya Bhagvath,Actress,Female,25-Jun-17,,1,No,98,19,25-Jun-17,30-Sep-17,Kamal Haasan,,0,Star Vijay,7.80,1,0,0,,0,0
 Tamil,1,Bharani,Actor,Male,25-Jun-17,,2,No,98,19,25-Jun-17,30-Sep-17,Kamal Haasan,,0,Star Vijay,7.80,1,0,0,,0,0
@@ -499,59 +561,92 @@ Tamil,3,Tharshan Thiyagarajah,Model,Male,23-Jun-19,,14,No,105,17,23-Jun-19,06-Oc
 Tamil,3,Vanitha Vijayakumar,Actress,Female,23-Jun-19,,12,No,105,17,23-Jun-19,06-Oct-19,Kamal Haasan,,0,Star Vijay,8.80,3,1,2,,0,0
 Tamil,3,Meera Mitun,Model,Female,,,5,Yes,105,17,23-Jun-19,06-Oct-19,Kamal Haasan,,0,Star Vijay,8.80,4,0,0,,0,0
 Tamil,3,Kasthuri Shankar,Actress,Female,,,9,Yes,105,17,23-Jun-19,06-Oct-19,Kamal Haasan,,0,Star Vijay,8.80,1,0,0,,0,0
-Tamil,4,Aajeedh Khalique,Singer,Male,04-Oct-20,,,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,,Star Vijay,,4,,1,,,
-Tamil,4,Aari Arjuna,Actor,Male,04-Oct-20,,,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,,Star Vijay,,6,,1,,,
-Tamil,4,Anitha Sampath,News Presenter,Female,04-Oct-20,,,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,,Star Vijay,,6,,,,,
-Tamil,4,Balaji Murugadoss,Model,Male,04-Oct-20,,,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,,Star Vijay,,6,,,,,
-Tamil,4,Gabriella Charlton,Actress,Female,04-Oct-20,,,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,,Star Vijay,,2,,,,,
-Tamil,4,Nisha Aranthangi,Comedian,Female,04-Oct-20,,10,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,0,Star Vijay,,4,0,,,0,0
-Tamil,4,Ramesh Jithan,Actor,Male,04-Oct-20,,10,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,0,Star Vijay,,3,0,1,,0,0
-Tamil,4,Rekha,Actress,Female,04-Oct-20,18-Oct-20,2,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,0,Star Vijay,,1,0,0,,0,0
-Tamil,4,Ramya Pandian,Actress,Female,04-Oct-20,,,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,,Star Vijay,,4,,2,,,
-Tamil,4,Rio Raj,Video Jockey,Male,04-Oct-20,,,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,,Star Vijay,,3,,2,,,
-Tamil,4,Sanam Shetty,Model,Female,04-Oct-20,,9,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,0,Star Vijay,,5,0,,,0,0
-Tamil,4,Shivani Narayanan,Soap Actress,Female,04-Oct-20,,,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,,Star Vijay,,3,,,,,
-Tamil,4,Samyuktha Karthik,Actress,Female,04-Oct-20,,8,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,0,Star Vijay,,3,0,1,,0,0
-Tamil,4,Somashekar,Model,Male,04-Oct-20,,,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,,Star Vijay,,5,,,,,
-Tamil,4,Suresh Chakravarthy,Actor,Male,04-Oct-20,,5,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,0,Star Vijay,,3,0,1,,0,0
-Tamil,4,Velmurugan,Singer,Male,04-Oct-20,,4,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,0,Star Vijay,,1,0,0,,0,0
-Tamil,4,Archana Chandhoke,Video Jockey,Female,,,,Yes,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,,Star Vijay,,2,,1,,,
-Tamil,4,Suchitra Ramadurai,Singer,Female,,,7,Yes,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,0,Star Vijay,,1,0,0,,0,0
+Tamil,4,Aajeedh Khalique,Singer,Male,04-Oct-20,,13,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,0,Star Vijay,15.60,7,0,1,,0,0
+Tamil,4,Aari Arjunan,Actor,Male,04-Oct-20,NA,NA,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,"50,00,000",Star Vijay,15.60,11,0,2,9,1,1
+Tamil,4,Anitha Sampath,News Presenter,Female,04-Oct-20,,12,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,0,Star Vijay,15.60,7,0,1,,0,0
+Tamil,4,Balaji Murugadoss,Model,Male,04-Oct-20,17-Jan-21,15,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,0,Star Vijay,15.60,9,0,1,8,1,0
+Tamil,4,Gabriella Charlton,Actress,Female,04-Oct-20,17-Jan-21,15,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,"5,00,000",Star Vijay,15.60,7,0,0,,0,0
+Tamil,4,Nisha Aranthangi,Comedian,Female,04-Oct-20,,10,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,0,Star Vijay,15.60,4,0,0,,0,0
+Tamil,4,Ramesh Jithan,Actor,Male,04-Oct-20,,10,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,0,Star Vijay,15.60,3,0,1,,0,0
+Tamil,4,Rekha,Actress,Female,04-Oct-20,18-Oct-20,2,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,0,Star Vijay,15.60,1,0,0,,0,0
+Tamil,4,Ramya Pandian,Actress,Female,04-Oct-20,17-Jan-21,15,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,0,Star Vijay,15.60,9,0,2,7,1,0
+Tamil,4,Rio Raj,Video Jockey,Male,04-Oct-20,17-Jan-21,15,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,0,Star Vijay,15.60,7,0,3,7,1,0
+Tamil,4,Sanam Shetty,Model,Female,04-Oct-20,,9,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,0,Star Vijay,15.60,5,0,0,,0,0
+Tamil,4,Shivani Narayanan,Soap Actress,Female,04-Oct-20,10-Jan-21,14,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,0,Star Vijay,15.60,8,0,0,,0,0
+Tamil,4,Samyuktha Karthik,Actress,Female,04-Oct-20,,8,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,0,Star Vijay,15.60,3,0,1,,0,0
+Tamil,4,Somashekar,Model,Male,04-Oct-20,17-Jan-21,15,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,0,Star Vijay,15.60,9,0,0,6,1,0
+Tamil,4,Suresh Chakravarthy,Actor,Male,04-Oct-20,,5,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,0,Star Vijay,15.60,3,0,1,,0,0
+Tamil,4,Velmurugan,Singer,Male,04-Oct-20,,4,No,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,0,Star Vijay,15.60,1,0,0,,0,0
+Tamil,4,Archana Chandhoke,Video Jockey,Female,,,11,Yes,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,0,Star Vijay,15.60,2,0,1,,0,0
+Tamil,4,Suchitra Ramadurai,Singer,Female,,,7,Yes,105,18,04-Oct-20,17-Jan-21,Kamal Haasan,,0,Star Vijay,15.60,1,0,0,,0,0
+Tamil,5,Abhinay Vaddi,Actor,Male,03-Oct-21,,,No,105,18,03-Oct-21,16-Jan-22,Kamal Haasan,,,Star Vijay,,,,,,,
+Tamil,5,Abishek Raaja,Social Media Star,Male,03-Oct-21,,,No,105,18,03-Oct-21,16-Jan-22,Kamal Haasan,,,Star Vijay,,,,,,,
+Tamil,5,Akshara Reddy,Pageant Winner,Female,03-Oct-21,,,No,105,18,03-Oct-21,16-Jan-22,Kamal Haasan,,,Star Vijay,,,,,,,
+Tamil,5,Chinnaponnu,Singer,Female,03-Oct-21,,,No,105,18,03-Oct-21,16-Jan-22,Kamal Haasan,,,Star Vijay,,,,,,,
+Tamil,5,Ciby,Actor,Male,03-Oct-21,,,No,105,18,03-Oct-21,16-Jan-22,Kamal Haasan,,,Star Vijay,,,,,,,
+Tamil,5,Imman Annachi,Comedian,Male,03-Oct-21,,,No,105,18,03-Oct-21,16-Jan-22,Kamal Haasan,,,Star Vijay,,,,,,,
+Tamil,5,Isaivani,Singer,Female,03-Oct-21,,,No,105,18,03-Oct-21,16-Jan-22,Kamal Haasan,,,Star Vijay,,,,,,,
+Tamil,5,Iykki Berry,Singer,Female,03-Oct-21,,,No,105,18,03-Oct-21,16-Jan-22,Kamal Haasan,,,Star Vijay,,,,,,,
+Tamil,5,Mathumitha,Model,Female,03-Oct-21,,,No,105,18,03-Oct-21,16-Jan-22,Kamal Haasan,,,Star Vijay,,,,,,,
+Tamil,5,Nadia Chang,Model,Female,03-Oct-21,,,No,105,18,03-Oct-21,16-Jan-22,Kamal Haasan,,,Star Vijay,,,,,,,
+Tamil,5,Namitha Marimuthu,Model,Transgender,03-Oct-21,,,No,105,18,03-Oct-21,16-Jan-22,Kamal Haasan,,,Star Vijay,,,,,,,
+Tamil,5,Niroop,Pageant Winner,Male,03-Oct-21,,,No,105,18,03-Oct-21,16-Jan-22,Kamal Haasan,,,Star Vijay,,,,,,,
+Tamil,5,Pavani Reddy,Soap Actress,Female,03-Oct-21,,,No,105,18,03-Oct-21,16-Jan-22,Kamal Haasan,,,Star Vijay,,,,,,,
+Tamil,5,Priyanka Deshpande,TV Anchor,Female,03-Oct-21,,,No,105,18,03-Oct-21,16-Jan-22,Kamal Haasan,,,Star Vijay,,,,,,,
+Tamil,5,Raju Jeyamohan,Actor,Male,03-Oct-21,,,No,105,18,03-Oct-21,16-Jan-22,Kamal Haasan,,,Star Vijay,,,,,,,
+Tamil,5,Suruthi Periyasamy,Model,Female,03-Oct-21,,,No,105,18,03-Oct-21,16-Jan-22,Kamal Haasan,,,Star Vijay,,,,,,,
+Tamil,5,Thamarai Selvi,Folk Artist,Female,03-Oct-21,,,No,105,18,03-Oct-21,16-Jan-22,Kamal Haasan,,,Star Vijay,,,,,,,
+Tamil,5,Varun,Actor,Male,03-Oct-21,,,No,105,18,03-Oct-21,16-Jan-22,Kamal Haasan,,,Star Vijay,,,,,,,
 Marathi,1,Aarti Solanki,Comedian,Female,15-Apr-18,,1,No,98,18,15-Apr-18,22-Jul-18,Mahesh Manjrekar,,0,Colors Marathi,,1,0,0,,0,0
 Marathi,1,Aastad Kale,Actor,Male,15-Apr-18,,14,No,98,18,15-Apr-18,22-Jul-18,Mahesh Manjrekar,,0,Colors Marathi,,7,0,1,,1,0
 Marathi,1,Anil Thatte,Journalist,Male,15-Apr-18,,4,No,98,18,15-Apr-18,22-Jul-18,Mahesh Manjrekar,,0,Colors Marathi,,3,0,0,,0,0
-Marathi,1,Bhushan Kadu ,Actor,Male,15-Apr-18,,9,No,98,18,15-Apr-18,22-Jul-18,Mahesh Manjrekar,,0,Colors Marathi,,4,0,1,,0,0
+Marathi,1,Bhushan Kadu,Actor,Male,15-Apr-18,,9,No,98,18,15-Apr-18,22-Jul-18,Mahesh Manjrekar,,0,Colors Marathi,,4,0,1,,0,0
 Marathi,1,Jui Gadkari,Soap Actress,Female,15-Apr-18,,7,No,98,18,15-Apr-18,22-Jul-18,Mahesh Manjrekar,,0,Colors Marathi,,5,0,0,,0,0
 Marathi,1,Megha Dhade,Actress,Female,15-Apr-18,NA,NA,No,98,18,15-Apr-18,22-Jul-18,Mahesh Manjrekar,,"25,00,000",Colors Marathi,,5,0,2,,1,1
 Marathi,1,Pushkar Jog,Actor,Male,15-Apr-18,,14,No,98,18,15-Apr-18,22-Jul-18,Mahesh Manjrekar,,0,Colors Marathi,,5,0,2,,1,0
 Marathi,1,Rajesh Shringarpure,Actor,Male,15-Apr-18,,5,No,98,18,15-Apr-18,22-Jul-18,Mahesh Manjrekar,,0,Colors Marathi,,2,0,0,,0,0
-Marathi,1,Resham Tipnis ,Actress,Female,15-Apr-18,,13,No,98,18,15-Apr-18,22-Jul-18,Mahesh Manjrekar,,0,Colors Marathi,,7,0,1,,0,0
+Marathi,1,Resham Tipnis,Actress,Female,15-Apr-18,,13,No,98,18,15-Apr-18,22-Jul-18,Mahesh Manjrekar,,0,Colors Marathi,,7,0,1,,0,0
 Marathi,1,Rutuja Dharmadhikari,Actress,Female,15-Apr-18,,6,No,98,18,15-Apr-18,22-Jul-18,Mahesh Manjrekar,,0,Colors Marathi,,3,0,0,,0,0
-Marathi,1,Sai Lokur ,Actress,Female,15-Apr-18,,14,No,98,18,15-Apr-18,22-Jul-18,Mahesh Manjrekar,,0,Colors Marathi,,7,0,2,,1,0
+Marathi,1,Sai Lokur,Actress,Female,15-Apr-18,,14,No,98,18,15-Apr-18,22-Jul-18,Mahesh Manjrekar,,0,Colors Marathi,,7,0,2,,1,0
 Marathi,1,Smita Gondkar,Actress,Female,15-Apr-18,,14,No,98,18,15-Apr-18,22-Jul-18,Mahesh Manjrekar,,0,Colors Marathi,,8,0,1,,1,0
 Marathi,1,Sushant Shelar,Actor,Male,15-Apr-18,,8,No,98,18,15-Apr-18,22-Jul-18,Mahesh Manjrekar,,0,Colors Marathi,,5,0,1,,0,0
-Marathi,1,Usha Nadkarni ,Actress,Female,15-Apr-18,,11,No,98,18,15-Apr-18,22-Jul-18,Mahesh Manjrekar,,0,Colors Marathi,,4,0,0,,0,0
+Marathi,1,Usha Nadkarni,Actress,Female,15-Apr-18,,11,No,98,18,15-Apr-18,22-Jul-18,Mahesh Manjrekar,,0,Colors Marathi,,4,0,0,,0,0
 Marathi,1,Vineet Bhonde,Actor,Male,15-Apr-18,,2,No,98,18,15-Apr-18,22-Jul-18,Mahesh Manjrekar,,0,Colors Marathi,,1,0,1,,0,0
 Marathi,1,Sharmishtha Raut,Actress,Female,,,14,Yes,98,18,15-Apr-18,22-Jul-18,Mahesh Manjrekar,,0,Colors Marathi,,5,0,0,,1,0
-Marathi,1,Tyagraj Khadilkar ,Actor,Male,,,8,Yes,98,18,15-Apr-18,22-Jul-18,Mahesh Manjrekar,,0,Colors Marathi,,1,0,0,,0,0
+Marathi,1,Tyagraj Khadilkar,Actor,Male,,,8,Yes,98,18,15-Apr-18,22-Jul-18,Mahesh Manjrekar,,0,Colors Marathi,,1,0,0,,0,0
 Marathi,1,Nandkishor Chaughule,Actor,Male,,,12,Yes,98,18,15-Apr-18,22-Jul-18,Mahesh Manjrekar,,0,Colors Marathi,,2,0,0,,0,0
 Marathi,2,Abhijit Awade Bichukale,Politician,Male,26-May-19,,4,No,98,17,26-May-19,01-Sep-19,Mahesh Manjrekar,,0,Colors Marathi,,3,1,0,,0,0
 Marathi,2,Abhijit Kelkar,Actor,Male,26-May-19,,11,No,98,17,26-May-19,01-Sep-19,Mahesh Manjrekar,,0,Colors Marathi,,2,0,2,,0,0
 Marathi,2,Digamber Naik,Actor,Male,26-May-19,,3,No,98,17,26-May-19,01-Sep-19,Mahesh Manjrekar,,0,Colors Marathi,,1,0,0,,0,0
 Marathi,2,Kishori Shahane Vij,Actress,Female,26-May-19,,14,No,98,17,26-May-19,01-Sep-19,Mahesh Manjrekar,,0,Colors Marathi,,9,0,1,,1,0
-Marathi,2,Maadhav C Deochake ,Actor,Male,26-May-19,,9,No,98,17,26-May-19,01-Sep-19,Mahesh Manjrekar,,0,Colors Marathi,,4,0,1,,0,0
+Marathi,2,Maadhav C Deochake,Actor,Male,26-May-19,,9,No,98,17,26-May-19,01-Sep-19,Mahesh Manjrekar,,0,Colors Marathi,,4,0,1,,0,0
 Marathi,2,Maitthily Jawkar,Actress,Female,26-May-19,,2,No,98,17,26-May-19,01-Sep-19,Mahesh Manjrekar,,0,Colors Marathi,,1,0,0,,0,0
 Marathi,2,Neha Shitole,Actress,Female,26-May-19,,14,No,98,17,26-May-19,01-Sep-19,Mahesh Manjrekar,,0,Colors Marathi,,7,0,1,,1,0
 Marathi,2,Parag Kanhere,Chef,Male,26-May-19,,5,No,98,17,26-May-19,01-Sep-19,Mahesh Manjrekar,,0,Colors Marathi,,4,0,0,,0,0
 Marathi,2,Rupali Bhosale,Soap Actress,Female,26-May-19,,10,No,98,17,26-May-19,01-Sep-19,Mahesh Manjrekar,,0,Colors Marathi,,4,0,1,,0,0
 Marathi,2,Shiv Thakre,Reality Show Alumni,Male,26-May-19,NA,NA,No,98,17,26-May-19,01-Sep-19,Mahesh Manjrekar,,"25,00,000",Colors Marathi,,7,0,2,,1,1
 Marathi,2,Shivani Surve,Actress,Female,26-May-19,,3,No,98,17,26-May-19,01-Sep-19,Mahesh Manjrekar,,0,Colors Marathi,,2,1,1,,1,0
-Marathi,2,Surekha Punekar ,Choreographer,Female,26-May-19,,6,No,98,17,26-May-19,01-Sep-19,Mahesh Manjrekar,,0,Colors Marathi,,2,0,0,,0,0
+Marathi,2,Surekha Punekar,Choreographer,Female,26-May-19,,6,No,98,17,26-May-19,01-Sep-19,Mahesh Manjrekar,,0,Colors Marathi,,2,0,0,,0,0
 Marathi,2,Vaishali Mhade,Singer,Female,26-May-19,,8,No,98,17,26-May-19,01-Sep-19,Mahesh Manjrekar,,0,Colors Marathi,,3,0,1,,0,0
 Marathi,2,Veena Jagtap,Actress,Female,26-May-19,,14,No,98,17,26-May-19,01-Sep-19,Mahesh Manjrekar,,0,Colors Marathi,,9,0,0,,1,0
 Marathi,2,Vidyadhar (Bappa) Joshi,Actor,Male,26-May-19,,4,No,98,17,26-May-19,01-Sep-19,Mahesh Manjrekar,,0,Colors Marathi,,1,0,0,,0,0
-Marathi,2,Heena Panchal ,Choreographer,Female,,,12,Yes,98,17,26-May-19,01-Sep-19,Mahesh Manjrekar,,0,Colors Marathi,,7,0,0,,0,0
+Marathi,2,Heena Panchal,Choreographer,Female,,,12,Yes,98,17,26-May-19,01-Sep-19,Mahesh Manjrekar,,0,Colors Marathi,,7,0,0,,0,0
 Marathi,2,Aroh Velankar,Actor,Male,,,14,Yes,98,17,26-May-19,01-Sep-19,Mahesh Manjrekar,,0,Colors Marathi,,4,0,0,,1,0
+Marathi,3,Akshay Waghmare,Actor,Male,19-Sep-21,,,No,99,15,19-Sep-21,26-Dec-21,Mahesh Manjrekar,Siddhartha Jadhav,,Colors Marathi,,1,,,,,
+Marathi,3,Avishkar Darwhekar,Actor,Male,19-Sep-21,,,No,99,15,19-Sep-21,26-Dec-21,Mahesh Manjrekar,Siddhartha Jadhav,,Colors Marathi,,2,,,,,
+Marathi,3,Gayatri Datar,Soap Actress,Female,19-Sep-21,,,No,99,15,19-Sep-21,26-Dec-21,Mahesh Manjrekar,Siddhartha Jadhav,,Colors Marathi,,2,,,,,
+Marathi,3,Jay Dudhane,Reality Show Alumni,Male,19-Sep-21,,,No,99,15,19-Sep-21,26-Dec-21,Mahesh Manjrekar,Siddhartha Jadhav,,Colors Marathi,,0,,,,,
+Marathi,3,Meenal Shah,Reality Show Alumni,Female,19-Sep-21,,,No,99,15,19-Sep-21,26-Dec-21,Mahesh Manjrekar,Siddhartha Jadhav,,Colors Marathi,,2,,,,,
+Marathi,3,Mira Jagannath,Soap Actress,Female,19-Sep-21,,,No,99,15,19-Sep-21,26-Dec-21,Mahesh Manjrekar,Siddhartha Jadhav,,Colors Marathi,,1,,,,,
+Marathi,3,Santosh Choudhari,Singer,Male,19-Sep-21,,,No,99,15,19-Sep-21,26-Dec-21,Mahesh Manjrekar,Siddhartha Jadhav,,Colors Marathi,,2,,,,,
+Marathi,3,Shivlila Patil,Preacher,Female,19-Sep-21,,2,No,99,15,19-Sep-21,26-Dec-21,Mahesh Manjrekar,Siddhartha Jadhav,,Colors Marathi,,2,0,0,0,0,0
+Marathi,3,Sneha Wagh,Soap Actress,Female,19-Sep-21,,,No,99,15,19-Sep-21,26-Dec-21,Mahesh Manjrekar,Siddhartha Jadhav,,Colors Marathi,,2,,,,,
+Marathi,3,Sonali Patil,Soap Actress,Female,19-Sep-21,,,No,99,15,19-Sep-21,26-Dec-21,Mahesh Manjrekar,Siddhartha Jadhav,,Colors Marathi,,0,,,,,
+Marathi,3,Surekha Kudachi,Soap Actress,Female,19-Sep-21,,,No,99,15,19-Sep-21,26-Dec-21,Mahesh Manjrekar,Siddhartha Jadhav,,Colors Marathi,,1,,,,,
+Marathi,3,Trupti Desai,Activist,Female,19-Sep-21,,,No,99,15,19-Sep-21,26-Dec-21,Mahesh Manjrekar,Siddhartha Jadhav,,Colors Marathi,,2,,,,,
+Marathi,3,Utkarsh Shinde,Singer,Male,19-Sep-21,,,No,99,15,19-Sep-21,26-Dec-21,Mahesh Manjrekar,Siddhartha Jadhav,,Colors Marathi,,1,,1,,,
+Marathi,3,Vikas Patil,Soap Actor,Male,19-Sep-21,,,No,99,15,19-Sep-21,26-Dec-21,Mahesh Manjrekar,Siddhartha Jadhav,,Colors Marathi,,2,,,,,
+Marathi,3,Vishal Nikam,Soap Actor,Male,19-Sep-21,,,No,99,15,19-Sep-21,26-Dec-21,Mahesh Manjrekar,Siddhartha Jadhav,,Colors Marathi,,3,,,,,
 Bengali,1,Abhijeet Burman,Actor,Male,17-Jun-13,,12,No,90,15,17-Jun-13,14-Sep-13,Mithun Chakraborthy,,0,ETV Bangla,2.90,5,0,0,,0,0
 Bengali,1,Aneek Dhar,Singer,Male,17-Jun-13,NA,NA,No,90,15,17-Jun-13,14-Sep-13,Mithun Chakraborthy,,"20,00,000",ETV Bangla,2.90,7,0,0,,1,1
 Bengali,1,Iris Maity,Actress,Female,17-Jun-13,,7,No,90,15,17-Jun-13,14-Sep-13,Mithun Chakraborthy,,0,ETV Bangla,2.90,2,0,0,,0,0
@@ -601,26 +696,44 @@ Malayalam,1,Sreelakshmi Sreekumar,Actress,Female,24-Jun-18,,4,No,98,18,24-Jun-18
 Malayalam,1,Srinish Aravind,Soap Actor,Male,24-Jun-18,,14,No,98,18,24-Jun-18,30-Sep-18,Mohanlal,,0,Asianet,10.33,7,0,2,,1,0
 Malayalam,1,Anjali Ameer,Actress,Female,,,NA,Yes,98,18,24-Jun-18,30-Sep-18,Mohanlal,,0,Asianet,10.33,5,0,0,,0,0
 Malayalam,1,Shiyas Kareem,Actor,Male,,,14,Yes,98,18,24-Jun-18,30-Sep-18,Mohanlal,,0,Asianet,10.33,0,0,1,,1,0
-Malayalam,2,Alasandra Johnson,Model,Female,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,0,Asianet,11.03,4,1,0,,0,0
-Malayalam,2,Alina Padikkal,Soap Actress,Female,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,0,Asianet,11.03,3,1,0,,0,0
-Malayalam,2,Arya Rohit,Actress,Female,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,0,Asianet,11.03,5,0,0,,0,0
-Malayalam,2,Krishnajeev/Fukru,Social Media Star,Male,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,0,Asianet,11.03,2,0,3,,0,0
-Malayalam,2,Manju Sunichen/Pathrose,Soap Actress,Female,05-Jan-20,,7,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,0,Asianet,11.03,2,0,0,,0,0
-Malayalam,2,Pareekutty Perumbavoor,Actor,Male,05-Jan-20,26-Jan-20,3,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,0,Asianet,11.03,1,0,0,,0,0
-Malayalam,2,Pradeep Chandran,Actor,Male,05-Jan-20,,6,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,0,Asianet,11.03,3,0,1,,0,0
-Malayalam,2,Raghu Subhash,Radio Jockey,Male,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,0,Asianet,11.03,3,1,0,,0,0
-Malayalam,2,Rajini Chandy,Actress,Female,05-Jan-20,19-Jan-20,2,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,0,Asianet,11.03,1,0,1,,0,0
-Malayalam,2,Rajith Kumar,Activist,Male,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,0,Asianet,11.03,6,0,2,,0,0
-Malayalam,2,Reshma Rajan/Nair,Model,Female,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,0,Asianet,11.03,3,1,0,,0,0
-Malayalam,2,Saju Navodaya,Actor,Male,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,0,Asianet,11.03,3,0,4,,0,0
-Malayalam,2,Somadas,Singer,Male,05-Jan-20,NA,NA,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,0,Asianet,11.03,1,0,0,,0,0
-Malayalam,2,Sujo Mathew,Model,Male,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,0,Asianet,11.03,3,1,0,,0,0
-Malayalam,2,Suresh Krishnan,Film Director,Male,05-Jan-20,26-Jan-20,3,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,0,Asianet,11.03,1,0,0,,0,0
-Malayalam,2,Thesni Khan,Actress,Female,05-Jan-20,,4,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,0,Asianet,11.03,2,0,0,,0,0
-Malayalam,2,Veena Nair,Actress,Female,05-Jan-20,,,No,105,23,05-Jan-20,19-Apr-20,Mohanlal,,0,Asianet,11.03,7,0,0,,0,0
-Malayalam,2,Daya Ashwathy/Achu,Social Media Star,Female,26-Jan-20,,,Yes,105,23,05-Jan-20,19-Apr-20,Mohanlal,,0,Asianet,11.03,4,1,0,,0,0
-Malayalam,2,Jazla Madassery,Activist,Female,26-Jan-20,,8,Yes,105,23,05-Jan-20,19-Apr-20,Mohanlal,,0,Asianet,11.03,4,0,0,,0,0
-Malayalam,2,Pavan Gino Thomas,Model,Male,,NA,NA,Yes,105,23,05-Jan-20,19-Apr-20,Mohanlal,,0,Asianet,11.03,0,0,0,,0,0
-Malayalam,2,Sooraj,Radio Jockey,Male,,,8,Yes,105,23,05-Jan-20,19-Apr-20,Mohanlal,,0,Asianet,11.03,2,0,0,,0,0
-Malayalam,2,Abhirami Suresh,Actress,Female,,,,Yes,105,23,05-Jan-20,19-Apr-20,Mohanlal,,0,Asianet,11.03,3,0,0,,0,0
-Malayalam,2,Amrutha Suresh,Singer,Female,,,,Yes,105,23,05-Jan-20,19-Apr-20,Mohanlal,,0,Asianet,11.03,3,0,0,,0,0
+Malayalam,2,Alasandra Johnson,Model,Female,05-Jan-20,,,No,75,23,05-Jan-20,20-Mar-20,Mohanlal,,0,Asianet,11.03,4,1,0,,0,0
+Malayalam,2,Alina Padikkal,Soap Actress,Female,05-Jan-20,,,No,75,23,05-Jan-20,20-Mar-20,Mohanlal,,0,Asianet,11.03,3,1,0,,0,0
+Malayalam,2,Arya Rohit,Actress,Female,05-Jan-20,,,No,75,23,05-Jan-20,20-Mar-20,Mohanlal,,0,Asianet,11.03,5,0,0,,0,0
+Malayalam,2,Krishnajeev/Fukru,Social Media Star,Male,05-Jan-20,,,No,75,23,05-Jan-20,20-Mar-20,Mohanlal,,0,Asianet,11.03,2,0,3,,0,0
+Malayalam,2,Manju Sunichen/Pathrose,Soap Actress,Female,05-Jan-20,,7,No,75,23,05-Jan-20,20-Mar-20,Mohanlal,,0,Asianet,11.03,2,0,0,,0,0
+Malayalam,2,Pareekutty Perumbavoor,Actor,Male,05-Jan-20,26-Jan-20,3,No,75,23,05-Jan-20,20-Mar-20,Mohanlal,,0,Asianet,11.03,1,0,0,,0,0
+Malayalam,2,Pradeep Chandran,Actor,Male,05-Jan-20,,6,No,75,23,05-Jan-20,20-Mar-20,Mohanlal,,0,Asianet,11.03,3,0,1,,0,0
+Malayalam,2,Raghu Subhash,Radio Jockey,Male,05-Jan-20,,,No,75,23,05-Jan-20,20-Mar-20,Mohanlal,,0,Asianet,11.03,3,1,0,,0,0
+Malayalam,2,Rajini Chandy,Actress,Female,05-Jan-20,19-Jan-20,2,No,75,23,05-Jan-20,20-Mar-20,Mohanlal,,0,Asianet,11.03,1,0,1,,0,0
+Malayalam,2,Rajith Kumar,Activist,Male,05-Jan-20,,,No,75,23,05-Jan-20,20-Mar-20,Mohanlal,,0,Asianet,11.03,6,0,2,,0,0
+Malayalam,2,Reshma Rajan/Nair,Model,Female,05-Jan-20,,,No,75,23,05-Jan-20,20-Mar-20,Mohanlal,,0,Asianet,11.03,3,1,0,,0,0
+Malayalam,2,Saju Navodaya,Actor,Male,05-Jan-20,,,No,75,23,05-Jan-20,20-Mar-20,Mohanlal,,0,Asianet,11.03,3,0,4,,0,0
+Malayalam,2,Somadas,Singer,Male,05-Jan-20,NA,NA,No,75,23,05-Jan-20,20-Mar-20,Mohanlal,,0,Asianet,11.03,1,0,0,,0,0
+Malayalam,2,Sujo Mathew,Model,Male,05-Jan-20,,,No,75,23,05-Jan-20,20-Mar-20,Mohanlal,,0,Asianet,11.03,3,1,0,,0,0
+Malayalam,2,Suresh Krishnan,Film Director,Male,05-Jan-20,26-Jan-20,3,No,75,23,05-Jan-20,20-Mar-20,Mohanlal,,0,Asianet,11.03,1,0,0,,0,0
+Malayalam,2,Thesni Khan,Actress,Female,05-Jan-20,,4,No,75,23,05-Jan-20,20-Mar-20,Mohanlal,,0,Asianet,11.03,2,0,0,,0,0
+Malayalam,2,Veena Nair,Actress,Female,05-Jan-20,,,No,75,23,05-Jan-20,20-Mar-20,Mohanlal,,0,Asianet,11.03,7,0,0,,0,0
+Malayalam,2,Daya Ashwathy/Achu,Social Media Star,Female,26-Jan-20,,,Yes,75,23,05-Jan-20,20-Mar-20,Mohanlal,,0,Asianet,11.03,4,1,0,,0,0
+Malayalam,2,Jazla Madassery,Activist,Female,26-Jan-20,,8,Yes,75,23,05-Jan-20,20-Mar-20,Mohanlal,,0,Asianet,11.03,4,0,0,,0,0
+Malayalam,2,Pavan Gino Thomas,Model,Male,,NA,NA,Yes,75,23,05-Jan-20,20-Mar-20,Mohanlal,,0,Asianet,11.03,0,0,0,,0,0
+Malayalam,2,Sooraj,Radio Jockey,Male,,,8,Yes,75,23,05-Jan-20,20-Mar-20,Mohanlal,,0,Asianet,11.03,2,0,0,,0,0
+Malayalam,2,Abhirami Suresh,Actress,Female,,,,Yes,75,23,05-Jan-20,20-Mar-20,Mohanlal,,0,Asianet,11.03,3,0,0,,0,0
+Malayalam,2,Amrutha Suresh,Singer,Female,,,,Yes,75,23,05-Jan-20,20-Mar-20,Mohanlal,,0,Asianet,11.03,3,0,0,,0,0
+Malayalam,3,Adoney John,Activist,Male,14-Feb-21,,11,No,95,18,14-Feb-21,20-May-21,Mohanlal,,0,Asianet,12.4,4,0,1,,0,0
+Malayalam,3,Anoop Krishnan,Soap Actor,Male,14-Feb-21,,,No,95,18,14-Feb-21,20-May-21,Mohanlal,,0,Asianet,12.4,7,0,2,,1,0
+Malayalam,3,Bhagyalakshmi,Dubbing Artist,Female,14-Feb-21,,7,No,95,18,14-Feb-21,20-May-21,Mohanlal,,0,Asianet,12.4,3,0,1,,0,0
+Malayalam,3,Dimpal Bhal,Social Media Star,Female,14-Feb-21,,,No,95,18,14-Feb-21,20-May-21,Mohanlal,,0,Asianet,12.4,7,1,0,,1,0
+Malayalam,3,Firoz Azeez,Radio Jockey,Male,14-Feb-21,,,No,95,18,14-Feb-21,20-May-21,Mohanlal,,0,Asianet,12.4,6,0,1,,1,0
+Malayalam,3,Lekshmi Jayan,Singer,Female,14-Feb-21,,2,No,95,18,14-Feb-21,20-May-21,Mohanlal,,0,Asianet,12.4,1,0,0,,0,0
+Malayalam,3,Majiziya Bhanu,Sports Person,Female,14-Feb-21,,6,No,95,18,14-Feb-21,20-May-21,Mohanlal,,0,Asianet,12.4,2,0,0,,0,0
+Malayalam,3,Manikuttan,Actor,Male,14-Feb-21,,,No,95,18,14-Feb-21,20-May-21,Mohanlal,,"75,00,000",Asianet,12.4,5,0,2,,1,1
+Malayalam,3,Noby Marcose,Actor,Male,14-Feb-21,,,No,95,18,14-Feb-21,20-May-21,Mohanlal,,0,Asianet,12.4,3,0,1,,1,0
+Malayalam,3,Ramzan Muhammed,Dancer,Male,14-Feb-21,,,No,95,18,14-Feb-21,20-May-21,Mohanlal,,0,Asianet,12.4,5,0,2,,1,0
+Malayalam,3,Rithu Manthra,Singer,Female,14-Feb-21,,,No,95,18,14-Feb-21,20-May-21,Mohanlal,,0,Asianet,12.4,9,0,1,,1,0
+Malayalam,3,Sai Vishnu,Commoner,Male,14-Feb-21,,,No,95,18,14-Feb-21,20-May-21,Mohanlal,,0,Asianet,12.4,12,0,1,,1,0
+Malayalam,3,Sandhya Manoj,Dancer,Female,14-Feb-21,,10,No,95,18,14-Feb-21,20-May-21,Mohanlal,,0,Asianet,12.4,5,0,0,,0,0
+Malayalam,3,Soorya Menon,Model,Female,14-Feb-21,,13,No,95,18,14-Feb-21,20-May-21,Mohanlal,,0,Asianet,12.4,8,0,1,,0,0
+Malayalam,3,Firoz Khan & Sajna Firoz,Actor & Actress,Couple,,,9,Yes,95,18,14-Feb-21,20-May-21,Mohanlal,,0,Asianet,12.4,7,0,0,,0,0
+Malayalam,3,Michelle Ann Daniel,Actress,Female,,,3,Yes,95,18,14-Feb-21,20-May-21,Mohanlal,,0,Asianet,12.4,1,0,0,,0,0
+Malayalam,3,Angel Thomas,Model,Female,,,4,Yes,95,18,14-Feb-21,20-May-21,Mohanlal,,0,Asianet,12.4,1,0,0,,0,0
+Malayalam,3,Remya Panickar,Actress,Female,,,13,Yes,95,18,14-Feb-21,20-May-21,Mohanlal,,0,Asianet,12.4,3,1,1,,0,0
