@@ -25,7 +25,6 @@ https://satya-data.blogspot.com/2018/01/bigg-boss-data-set-bigg-boss.html
 
 Here is the data dictionary for Bigg Boss (Indian Big Brother) season's datasets.
 
-
 - Language - Language in which the show was telecasted/designed
 - Season Number - Season number
 - Name - Name of participant. Original Entrants are sorted in alphabetically
@@ -49,4 +48,3 @@ Here is the data dictionary for Bigg Boss (Indian Big Brother) season's datasets
 - Social Media Popularity - Popularity in Social media (1 - lowest, 10 - highest)
 - Finalist - Whether entered into final or not (0 - No, 1 - Yes)
 - Winner - Winner or not (1 - winner, 0 - otherwise)
-
