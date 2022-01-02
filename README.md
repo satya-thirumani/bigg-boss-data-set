@@ -23,6 +23,7 @@ Dataset https://www.kaggle.com/thirumani/bigg-boss-india-hindi-telugu-tamil-kann
 
 https://satya-data.blogspot.com/2018/01/bigg-boss-data-set-bigg-boss.html
 
+
 Here is the data dictionary for Bigg Boss (Indian Big Brother) season's datasets.
 
 - Language - Language in which the show was telecasted/designed
