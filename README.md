@@ -24,8 +24,6 @@ Dataset https://www.kaggle.com/thirumani/bigg-boss-india-hindi-telugu-tamil-kann
 
 Kaggle Notebook https://www.kaggle.com/thirumani/biggboss-hindi-telugu-tamil-kannada-marathi-bangla
 
-Blog https://satya-data.blogspot.com/2018/01/bigg-boss-data-set-bigg-boss.html
-
 Tableau Public visualizations https://public.tableau.com/app/profile/satya.thirumani/viz/BiggBossIndia_16434338263440/BBStory
 
   . . .
