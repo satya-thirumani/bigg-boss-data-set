@@ -6,13 +6,13 @@ Bigg Boss India - data set of all Big Brother Indian versions and seasons
 
 Bigg Boss Hindi Season 1/2/3/4/5/6/7/8/9/10/11/12/13/14/15 and Halla bol, BiggBoss OTT
 
-Bigg Boss Kannada Season 1/2/3/4/5/6/7/8
+Bigg Boss Kannada Season 1/2/3/4/5/6/7/8/9
 
 Bigg Boss Telugu Season 1/2/3/4/5 and Non-Stop
 
 Bigg Boss Tamil Season 1/2/3/4/5 and Ultimate
 
-Bigg Boss Malayalam Season 1/2/3
+Bigg Boss Malayalam Season 1/2/3/4
 
 Bigg Boss Marathi Season 1/2/3
 
