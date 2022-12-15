@@ -30,13 +30,14 @@ Tableau Public visualizations https://public.tableau.com/app/profile/satya.thiru
 
 Here is the data dictionary for Big Boss (India) season's dataset.
 
+
 - Language - Language in which the show was telecasted/designed
 
 - Season Number - Season number
 
-- Name - Name of participant. Original Entrants are sorted in alphabetical order
+- Name - Name of participant. Original Entrants are sorted in alphabetical order (no guest participants)
 
-- Profession - Profession of house mate
+- Profession - Profession of house mate, before entering into Bigg Boss
 
 - Gender - Gender of the BiggBoss contestant, such as Male, Female, LGBT
 
@@ -44,7 +45,7 @@ Here is the data dictionary for Big Boss (India) season's dataset.
 
 - Elimination Date - Date of (last) elimination/eviction
 
-- Elimination Week Number - (Final) Eviction week number
+- Elimination Week Number - (Last) Eviction week number
 
 - Wild Card - Entered through wild card or not
 
@@ -54,7 +55,7 @@ Here is the data dictionary for Big Boss (India) season's dataset.
 
 - Season Start Date - Season start date
 
-- Season End Date - Season last day or Finale day
+- Season End Date - Season last day or finale day or discontinued date
 
 - Host Name - Name of the host (who hosted most of the weekend episodes)
 
@@ -62,22 +63,32 @@ Here is the data dictionary for Big Boss (India) season's dataset.
 
 - Prize Money (INR) - Total prize money, in INR
 
-- Broadcasted By - Channel name/OTT platform who has broadcasted the season (in India)
+- Broadcasted By - TV channel name who has broadcasted the season (in India)
+
+- OTT Platform - OTT platform who has premiered the season (in India)
 
 - Average TRP - Average TV TRP of the season
 
 - Most Viewed States - Most viewed Indian States
 
-- OTT Season - Is this season premiered only in OTT?
+- House Location - Physical locality of bigg boss house
+
+- OTT Season - Is this season premiered/live only in OTT?
 
 - Number of Evictions Faced - Number of Evictions Faced by the Bigg Boss housemate
 
+- Number of times elected as Captain - Number of times/weeks elected as Captain
+
 - Number of re-entries - Number of reentries into the house, in the same season (not fake evictions & secret room)
 
-- Number of times elected as Captain - Number of times/weeks elected as Captain
+- Walked - Walked out of BB house, exiting without elimination (0 - No, 1 - Yes), due to health/personal reasons
+
+- Ejected - Ejected from BB house, exiting without elimination (0 - No, 1 - Yes), due to violation/legal issues
+
+- In secret room - Whether stayed in secret room or not (0 - No, 1 - Yes)
 
 - Social Media Popularity - Popularity in Social media (1 - lowest, 10 - highest) during the show
 
-- Finalist - Whether entered into final or not (0 - No, 1 - Yes)
+- Finalist - Whether entered into final week or not, or in finale (0 - No, 1 - Yes)
 
-- Winner - Winner or not (1 - winner, 0 - otherwise)
+- Winner - Winner or not (1 - winner, 0 - otherwise), whoever took highest prize money
