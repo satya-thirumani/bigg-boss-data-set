@@ -1,4 +1,4 @@
-# Data Sets
+# Indian BiggBoss Dataset
 Bigg Boss Telugu/Tamil/Kannada/Hindi/Malayalam/Marathi/Bengali Data sets.
 
 Bigg Boss India - data set of all Big Brother Indian versions and seasons
@@ -86,6 +86,12 @@ Here is the data dictionary for Big Boss (India) season's dataset.
 - Ejected - Ejected from BB house, exiting without elimination (0 - No, 1 - Yes), due to violation/legal issues
 
 - In secret room - Whether stayed in secret room or not (0 - No, 1 - Yes)
+
+- Won ticket to Finale - Housemate won ticket to finale or not (0 - No, 1 - Yes)
+
+- Number of times Best Performer - Number of times Best Performer received
+
+- Number of times Worst Performer - Number of times Worst Performer received
 
 - Social Media Popularity - Popularity in Social media (1 - lowest, 10 - highest) during the show
 
