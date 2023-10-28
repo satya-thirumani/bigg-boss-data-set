@@ -20,7 +20,7 @@ Bigg Boss Bangla Season 1/2
 
   . . .
 
-Dataset https://www.kaggle.com/thirumani/bigg-boss-india-hindi-telugu-tamil-kannada
+Dataset [https://www.kaggle.com/thirumani/bigg-boss-india-hindi-telugu-tamil-kannada](https://www.kaggle.com/datasets/thirumani/bigg-boss-india-hindi-telugu-tamil-kannada)
 
 Kaggle Notebook https://www.kaggle.com/thirumani/biggboss-hindi-telugu-tamil-kannada-marathi-bangla
 
@@ -35,17 +35,21 @@ Here is the data dictionary for Big Boss (India) season's dataset.
 
 - Season Number - Season number
 
-- Name - Name of participant. Original Entrants are sorted in alphabetical order (no guest participants)
+- Name - Name of participant, at the time of season. Original Entrants are sorted in alphabetical order (no guest participants)
 
 - Profession - Profession of house mate, before entering into Bigg Boss
 
 - Gender - Gender of the BiggBoss contestant, such as Male, Female, LGBT
 
-- Entry Date - Date of entry into house
+- Age - Contestant age, at the time of entering into Bigg Boss, <30 young, 30-50 middle, >50 old
+
+- Entry Date - Date of (first) entry into house
 
 - Elimination Date - Date of (last) elimination/eviction
 
 - Elimination Week Number - (Last) Eviction week number
+
+- Contestant Number - Order of entry in the season
 
 - Wild Card - Entered through wild card or not
 
@@ -73,28 +77,37 @@ Here is the data dictionary for Big Boss (India) season's dataset.
 
 - House Location - Physical locality of bigg boss house
 
-- OTT Season - Is this season premiered/live only in OTT?
+- OTT Season - Is this season premiered/live only in OTT (eventually in TV)?
+
+- Season Slogan - Slogan or tagline of the season
+
+- Season Theme - Theme of Bigg Boss house
 
 - Number of Evictions Faced - Number of Evictions Faced by the Bigg Boss housemate
 
-- Number of times elected as Captain - Number of times/weeks elected as Captain
+- Number of Times Elected as Captain - Number of times/weeks elected as Captain
 
-- Number of re-entries - Number of reentries into the house, in the same season (not fake evictions & secret room)
+- Number of Re-entries - Number of reentries into the house, in the same season (not fake evictions & secret room stay)
 
-- Walked - Walked out of BB house, exiting without elimination (0 - No, 1 - Yes), due to health/personal reasons
+- Walked - Walked out of BB house, exiting without elimination, due to health/personal reasons
 
 - Ejected - Ejected from BB house, exiting without elimination (0 - No, 1 - Yes), due to violation/legal issues
 
-- In secret room - Whether stayed in secret room or not (0 - No, 1 - Yes)
+- In Secret-Room - Whether stayed in secret room or not (0 - No, 1 - Yes)
 
-- Won ticket to Finale - Housemate won ticket to finale or not (0 - No, 1 - Yes)
+- Won Eviction Free Pass - Housemate won eviction free pass or not (0 - No, 1 - Yes), got immunity
 
-- Number of times Best Performer - Number of times Best Performer received
+- Won Ticket to Finale - Housemate won ticket to finale or not (0 - No, 1 - Yes)
 
-- Number of times Worst Performer - Number of times Worst Performer received
+- Number of times Best Performer - Number of times Best/top Performer received
+
+- Number of times Worst Performer - Number of times Worst/weak Performer received, went to jail
+
+- Secret Task - Involved in secret task and it's status (Success or Fail)
 
 - Social Media Popularity - Popularity in Social media (1 - lowest, 10 - highest) during the show
 
 - Finalist - Whether entered into final week or not, or in finale (0 - No, 1 - Yes)
 
 - Winner - Winner or not (1 - winner, 0 - otherwise), whoever took highest prize money
+
