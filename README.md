@@ -20,9 +20,9 @@ Bigg Boss Bangla Season 1/2
 
   . . .
 
-Dataset [https://www.kaggle.com/thirumani/bigg-boss-india-hindi-telugu-tamil-kannada](https://www.kaggle.com/datasets/thirumani/bigg-boss-india-hindi-telugu-tamil-kannada)
+Dataset [https://www.kaggle.com/datasets/thirumani/bigg-boss-india-hindi-telugu-tamil-kannada](https://www.kaggle.com/datasets/thirumani/bigg-boss-india-hindi-telugu-tamil-kannada)
 
-Kaggle Notebook https://www.kaggle.com/thirumani/biggboss-hindi-telugu-tamil-kannada-marathi-bangla
+Kaggle Notebook [https://www.kaggle.com/code/thirumani/biggboss-hindi-telugu-tamil-kannada-marathi-bangla/notebook](https://www.kaggle.com/code/thirumani/biggboss-hindi-telugu-tamil-kannada-marathi-bangla/notebook)
 
 Tableau Public visualizations https://public.tableau.com/app/profile/satya.thirumani/viz/BiggBossIndia_16434338263440/BBStory
 
